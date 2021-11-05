@@ -1,0 +1,1101 @@
+Mon Feb 01 08:38:18 PM - Connection lost with API...
+Mon Feb 01 08:38:28 PM - Connection lost with API...
+Mon Feb 01 08:38:33 PM - Connection lost with API...
+Mon Feb 01 08:38:38 PM - Connection lost with API...
+Mon Feb 01 08:38:43 PM - Connection lost with API...
+Mon Feb 01 08:38:50 PM - Connection lost with API...
+Mon Feb 01 08:38:53 PM - Connection lost with API...
+Mon Feb 01 08:38:58 PM - Connection lost with API...
+Tue Feb 02 10:22:02 AM - Calculated RSI for GOOGL: 47.1385373502072
+Tue Feb 02 10:22:04 AM - Calculated RSI for NVDA: 57.983193277310846
+Tue Feb 02 10:22:07 AM - Calculated RSI for AAPL: 52.63157894736851
+Tue Feb 02 10:22:09 AM - Calculated RSI for NVAX: 57.694235588972376
+Tue Feb 02 10:23:02 AM - Calculated RSI for GOOGL: 46.15715823466082
+Tue Feb 02 10:23:04 AM - Calculated RSI for NVDA: 53.19812792511677
+Tue Feb 02 10:23:06 AM - Calculated RSI for AAPL: 47.40259740259698
+Tue Feb 02 10:23:08 AM - Calculated RSI for NVAX: 58.44411619891676
+Tue Feb 02 10:23:11 AM - Calculated RSI for FB: 42.740286298567945
+Tue Feb 02 10:24:02 AM - Calculated RSI for GOOGL: 46.22006994888359
+Tue Feb 02 10:24:04 AM - Calculated RSI for NVDA: 50.61912576458288
+Tue Feb 02 10:24:06 AM - Calculated RSI for AAPL: 53.84615384615377
+Tue Feb 02 10:24:08 AM - Calculated RSI for NVAX: 51.46635997699824
+Tue Feb 02 10:24:09 AM - Calculated RSI for FB: 41.544885177452834
+Tue Feb 02 10:25:05 AM - Calculated RSI for GOOGL: 43.721846846846795
+Tue Feb 02 10:25:07 AM - Calculated RSI for NVDA: 45.93070104754187
+Tue Feb 02 10:25:08 AM - Calculated RSI for AAPL: 49.99999999999943
+Tue Feb 02 10:25:10 AM - Calculated RSI for NVAX: 52.60253816442894
+Tue Feb 02 10:25:12 AM - Calculated RSI for FB: 48.905109489051036
+Tue Feb 02 10:26:02 AM - Calculated RSI for GOOGL: 43.798132066196736
+Tue Feb 02 10:26:04 AM - Calculated RSI for NVDA: 49.184339314845126
+Tue Feb 02 10:26:06 AM - Calculated RSI for AAPL: 49.17234664070153
+Tue Feb 02 10:26:08 AM - Calculated RSI for NVAX: 51.80623123900233
+Tue Feb 02 10:26:10 AM - Calculated RSI for FB: 44.223107569721186
+Tue Feb 02 10:27:02 AM - Calculated RSI for GOOGL: 41.98875614898103
+Tue Feb 02 10:27:04 AM - Calculated RSI for NVDA: 43.47512617159344
+Tue Feb 02 10:27:06 AM - Calculated RSI for AAPL: 49.36708860759525
+Tue Feb 02 10:27:10 AM - Calculated RSI for NVAX: 49.41257774706295
+Tue Feb 02 10:27:11 AM - Calculated RSI for FB: 40.691393590205514
+Tue Feb 02 11:14:04 AM - Calculated RSI for GOOGL: 55.27052238805996
+Tue Feb 02 11:14:05 AM - Calculated RSI for NVDA: 41.48936170212738
+Tue Feb 02 11:14:06 AM - Calculated RSI for AAPL: 40.7766990291268
+Tue Feb 02 11:14:07 AM - Calculated RSI for NVAX: 60.478199718705966
+Tue Feb 02 11:14:08 AM - Calculated RSI for FB: 41.46341463414619
+Tue Feb 02 11:15:05 AM - Calculated RSI for GOOGL: 57.21873491067087
+Tue Feb 02 11:15:06 AM - Calculated RSI for NVDA: 50.27624309392241
+Tue Feb 02 11:15:07 AM - Calculated RSI for AAPL: 40.081521739130366
+Tue Feb 02 11:15:08 AM - Calculated RSI for NVAX: 66.9117647058822
+Tue Feb 02 11:15:09 AM - Calculated RSI for FB: 40.55896387184792
+Tue Feb 02 11:16:04 AM - Calculated RSI for GOOGL: 59.5776772247362
+Tue Feb 02 11:16:05 AM - Calculated RSI for NVDA: 56.52173913043499
+Tue Feb 02 11:16:06 AM - Calculated RSI for AAPL: 42.09748892171411
+Tue Feb 02 11:16:07 AM - Calculated RSI for NVAX: 74.89812550937243
+Tue Feb 02 11:16:07 AM - Wanted to sell stock NVAX at RSI: 74.89812550937243 but the account did not have positions
+Tue Feb 02 11:16:08 AM - Calculated RSI for FB: 36.44067796610134
+Tue Feb 02 11:17:01 AM - Calculated RSI for GOOGL: 61.604584527221114
+Tue Feb 02 11:17:03 AM - Calculated RSI for NVDA: 55.82161029631975
+Tue Feb 02 11:17:04 AM - Calculated RSI for AAPL: 41.237113402061915
+Tue Feb 02 11:17:06 AM - Calculated RSI for NVAX: 74.8482220294884
+Tue Feb 02 11:17:06 AM - Wanted to sell stock NVAX at RSI: 74.8482220294884 but the account did not have positions
+Tue Feb 02 11:17:07 AM - Calculated RSI for FB: 42.129629629630166
+Tue Feb 02 11:18:05 AM - Calculated RSI for GOOGL: 49.87531172069695
+Tue Feb 02 11:18:06 AM - Calculated RSI for NVDA: 48.49965108164859
+Tue Feb 02 11:18:07 AM - Calculated RSI for AAPL: 39.14590747331039
+Tue Feb 02 11:18:08 AM - Calculated RSI for NVAX: 71.73489278752439
+Tue Feb 02 11:18:08 AM - Wanted to sell stock NVAX at RSI: 71.73489278752439 but the account did not have positions
+Tue Feb 02 11:18:09 AM - Calculated RSI for FB: 42.129629629630166
+Tue Feb 02 11:19:04 AM - Calculated RSI for GOOGL: 55.54080955540804
+Tue Feb 02 11:19:05 AM - Calculated RSI for NVDA: 48.945001729505655
+Tue Feb 02 11:19:06 AM - Calculated RSI for AAPL: 39.68253968253997
+Tue Feb 02 11:19:08 AM - Calculated RSI for NVAX: 65.68969051035066
+Tue Feb 02 11:19:09 AM - Calculated RSI for FB: 44.87568223165651
+Tue Feb 02 11:20:05 AM - Calculated RSI for GOOGL: 53.63253856942589
+Tue Feb 02 11:20:06 AM - Calculated RSI for NVDA: 49.033149171271944
+Tue Feb 02 11:20:07 AM - Calculated RSI for AAPL: 36.5714285714278
+Tue Feb 02 11:20:08 AM - Calculated RSI for NVAX: 67.45723172628313
+Tue Feb 02 11:20:09 AM - Calculated RSI for FB: 46.92454026632916
+Tue Feb 02 11:21:04 AM - Calculated RSI for GOOGL: 57.57441137272376
+Tue Feb 02 11:21:05 AM - Calculated RSI for NVDA: 50.92180546726027
+Tue Feb 02 11:21:07 AM - Calculated RSI for AAPL: 38.55421686747112
+Tue Feb 02 11:21:08 AM - Calculated RSI for NVAX: 58.90341198438288
+Tue Feb 02 11:21:09 AM - Calculated RSI for FB: 48.578491965389205
+Tue Feb 02 11:22:01 AM - Calculated RSI for GOOGL: 53.16559551483656
+Tue Feb 02 11:22:02 AM - Calculated RSI for NVDA: 50.25773195876267
+Tue Feb 02 11:22:03 AM - Calculated RSI for AAPL: 35.63218390804617
+Tue Feb 02 11:22:04 AM - Calculated RSI for NVAX: 57.00575815738983
+Tue Feb 02 11:22:05 AM - Calculated RSI for FB: 45.63758389261729
+Tue Feb 02 11:23:05 AM - Calculated RSI for GOOGL: 53.20197044334969
+Tue Feb 02 11:23:06 AM - Calculated RSI for NVDA: 60.0
+Tue Feb 02 11:23:07 AM - Calculated RSI for AAPL: 39.45945945946025
+Tue Feb 02 11:23:08 AM - Calculated RSI for NVAX: 56.35673624288441
+Tue Feb 02 11:23:09 AM - Calculated RSI for FB: 45.63758389261729
+Tue Feb 02 11:24:02 AM - Calculated RSI for GOOGL: 50.99024534436934
+Tue Feb 02 11:24:02 AM - Calculated RSI for NVDA: 47.20812182741131
+Tue Feb 02 11:24:04 AM - Calculated RSI for AAPL: 35.260115606936935
+Tue Feb 02 11:24:04 AM - Calculated RSI for NVAX: 55.72666025024075
+Tue Feb 02 11:24:05 AM - Calculated RSI for FB: 51.2048192771089
+Tue Feb 02 11:25:01 AM - Calculated RSI for GOOGL: 49.44110060189217
+Tue Feb 02 11:25:02 AM - Calculated RSI for NVDA: 46.827794561934006
+Tue Feb 02 11:25:04 AM - Calculated RSI for AAPL: 43.8848920863312
+Tue Feb 02 11:25:05 AM - Calculated RSI for NVAX: 58.32438238453275
+Tue Feb 02 11:25:06 AM - Calculated RSI for FB: 59.98588567395908
+Tue Feb 02 11:26:02 AM - Calculated RSI for GOOGL: 46.18473895582373
+Tue Feb 02 11:26:03 AM - Calculated RSI for NVDA: 44.40559440559532
+Tue Feb 02 11:26:04 AM - Calculated RSI for AAPL: 45.09803921568659
+Tue Feb 02 11:26:05 AM - Calculated RSI for NVAX: 52.455426962777786
+Tue Feb 02 11:26:06 AM - Calculated RSI for FB: 59.98588567395908
+Tue Feb 02 11:27:02 AM - Calculated RSI for GOOGL: 54.305526806044185
+Tue Feb 02 11:28:03 AM - Calculated RSI for GOOGL: 53.96163469557933
+Tue Feb 02 11:28:04 AM - Calculated RSI for NVDA: 55.17536355859786
+Tue Feb 02 11:28:05 AM - Calculated RSI for AAPL: 43.33333333333292
+Tue Feb 02 11:28:07 AM - Calculated RSI for NVAX: 57.93397231096918
+Tue Feb 02 11:28:08 AM - Calculated RSI for FB: 64.82630272952844
+Tue Feb 02 11:29:03 AM - Calculated RSI for GOOGL: 53.84097035040467
+Tue Feb 02 11:29:04 AM - Calculated RSI for NVDA: 53.465346534654095
+Tue Feb 02 11:29:05 AM - Calculated RSI for AAPL: 44.31818181818193
+Tue Feb 02 11:29:06 AM - Calculated RSI for NVAX: 58.24915824915834
+Tue Feb 02 11:29:07 AM - Calculated RSI for FB: 66.29013079667098
+Tue Feb 02 11:30:01 AM - Calculated RSI for GOOGL: 51.28059191804181
+Tue Feb 02 11:30:02 AM - Calculated RSI for NVDA: 47.490347490347034
+Tue Feb 02 11:30:03 AM - Calculated RSI for AAPL: 50.19920318724997
+Tue Feb 02 11:30:04 AM - Calculated RSI for NVAX: 57.96199764587204
+Tue Feb 02 11:30:05 AM - Calculated RSI for FB: 71.75572519083964
+Tue Feb 02 11:30:05 AM - Wanted to sell stock FB at RSI: 71.75572519083964 but the account did not have positions
+Tue Feb 02 11:31:01 AM - Calculated RSI for GOOGL: 51.2556342562785
+Tue Feb 02 11:31:02 AM - Calculated RSI for NVDA: 42.413793103448675
+Tue Feb 02 11:31:03 AM - Calculated RSI for AAPL: 48.160535117055645
+Tue Feb 02 11:31:04 AM - Calculated RSI for NVAX: 60.69800345857545
+Tue Feb 02 11:31:05 AM - Calculated RSI for FB: 67.20430107526889
+Tue Feb 02 11:32:03 AM - Calculated RSI for GOOGL: 52.74656679151096
+Tue Feb 02 11:32:04 AM - Calculated RSI for NVDA: 45.77922077922133
+Tue Feb 02 11:32:05 AM - Calculated RSI for AAPL: 48.84488448844897
+Tue Feb 02 11:32:06 AM - Calculated RSI for NVAX: 57.19512195121946
+Tue Feb 02 11:32:07 AM - Calculated RSI for FB: 64.82412060301395
+Tue Feb 02 11:33:01 AM - Calculated RSI for GOOGL: 52.44974874371853
+Tue Feb 02 11:33:03 AM - Calculated RSI for NVDA: 48.405797101449046
+Tue Feb 02 11:33:03 AM - Calculated RSI for AAPL: 52.54237288135516
+Tue Feb 02 11:33:04 AM - Calculated RSI for NVAX: 60.179193628671044
+Tue Feb 02 11:33:05 AM - Calculated RSI for FB: 70.21276595744588
+Tue Feb 02 11:33:05 AM - Wanted to sell stock FB at RSI: 70.21276595744588 but the account did not have positions
+Tue Feb 02 11:34:01 AM - Calculated RSI for GOOGL: 56.75815639564959
+Tue Feb 02 11:34:03 AM - Calculated RSI for NVDA: 50.0
+Tue Feb 02 11:34:04 AM - Calculated RSI for AAPL: 51.15511551155103
+Tue Feb 02 11:34:05 AM - Calculated RSI for NVAX: 62.35172769468785
+Tue Feb 02 11:34:06 AM - Calculated RSI for FB: 65.21739130434695
+Tue Feb 02 11:35:01 AM - Calculated RSI for GOOGL: 47.7559912854029
+Tue Feb 02 11:35:02 AM - Calculated RSI for NVDA: 48.63731656184406
+Tue Feb 02 11:35:03 AM - Calculated RSI for AAPL: 37.81512605042077
+Tue Feb 02 11:35:04 AM - Calculated RSI for NVAX: 52.854122621564606
+Tue Feb 02 11:35:05 AM - Calculated RSI for FB: 64.20233463035026
+Tue Feb 02 11:36:01 AM - Calculated RSI for GOOGL: 50.8723599632688
+Tue Feb 02 11:36:02 AM - Calculated RSI for NVDA: 54.90605427975004
+Tue Feb 02 11:36:03 AM - Calculated RSI for AAPL: 42.930153321975666
+Tue Feb 02 11:36:04 AM - Calculated RSI for NVAX: 57.0125427594072
+Tue Feb 02 11:36:06 AM - Calculated RSI for FB: 61.912225705329135
+Tue Feb 02 11:37:01 AM - Calculated RSI for GOOGL: 50.3865393360615
+Tue Feb 02 11:37:02 AM - Calculated RSI for NVDA: 58.38150289017392
+Tue Feb 02 11:37:03 AM - Calculated RSI for AAPL: 49.218749999999616
+Tue Feb 02 11:37:04 AM - Calculated RSI for NVAX: 56.313416009019285
+Tue Feb 02 11:37:05 AM - Calculated RSI for FB: 65.43385490753897
+Tue Feb 02 11:38:01 AM - Calculated RSI for GOOGL: 52.13761699974713
+Tue Feb 02 11:38:02 AM - Calculated RSI for NVDA: 56.86274509803973
+Tue Feb 02 11:38:03 AM - Calculated RSI for AAPL: 43.231441048034334
+Tue Feb 02 11:38:04 AM - Calculated RSI for NVAX: 59.147424511545175
+Tue Feb 02 11:38:05 AM - Calculated RSI for FB: 65.10292005744392
+Tue Feb 02 11:39:02 AM - Calculated RSI for GOOGL: 53.407618554029746
+Tue Feb 02 11:39:03 AM - Calculated RSI for NVDA: 59.93930197268663
+Tue Feb 02 11:39:05 AM - Calculated RSI for AAPL: 47.085201793722774
+Tue Feb 02 11:39:06 AM - Calculated RSI for NVAX: 54.552912223134136
+Tue Feb 02 11:39:07 AM - Calculated RSI for FB: 61.20276742948382
+Tue Feb 02 12:32:05 PM - Calculated RSI for GOOGL: 67.70350761085275
+Tue Feb 02 12:32:06 PM - Calculated RSI for NVDA: 56.369426751591554
+Tue Feb 02 12:32:07 PM - Calculated RSI for AAPL: 74.99999999999812
+Tue Feb 02 12:33:05 PM - Calculated RSI for GOOGL: 72.24126113776435
+Tue Feb 02 12:33:06 PM - Calculated RSI for NVDA: 56.23003194888113
+Tue Feb 02 12:33:07 PM - Calculated RSI for AAPL: 63.74999999999925
+Tue Feb 02 12:33:08 PM - Calculated RSI for NVAX: 41.494845360824655
+Tue Feb 02 12:33:09 PM - Calculated RSI for FB: 57.142857142855945
+Tue Feb 02 12:34:07 PM - Calculated RSI for GOOGL: 69.13109756097438
+Tue Feb 02 12:34:08 PM - Calculated RSI for NVDA: 52.758620689654435
+Tue Feb 02 12:34:09 PM - Calculated RSI for AAPL: 71.830985915492
+Tue Feb 02 12:34:10 PM - Calculated RSI for NVAX: 38.85760257441659
+Tue Feb 02 12:34:11 PM - Calculated RSI for FB: 50.970873786408205
+Tue Feb 02 12:35:05 PM - Calculated RSI for GOOGL: 55.59030492572298
+Tue Feb 02 12:35:06 PM - Calculated RSI for NVDA: 54.25531914893608
+Tue Feb 02 12:35:08 PM - Calculated RSI for AAPL: 67.99999999999741
+Tue Feb 02 12:35:08 PM - Calculated RSI for NVAX: 44.6395563770796
+Tue Feb 02 12:35:09 PM - Calculated RSI for FB: 48.46938775510205
+Tue Feb 02 12:36:05 PM - Calculated RSI for GOOGL: 51.805453205600514
+Tue Feb 02 12:36:07 PM - Calculated RSI for NVDA: 52.94117647058731
+Tue Feb 02 12:36:08 PM - Calculated RSI for AAPL: 67.12328767123111
+Tue Feb 02 12:36:10 PM - Calculated RSI for NVAX: 43.35727109515252
+Tue Feb 02 12:36:11 PM - Calculated RSI for FB: 50.26455026455002
+Tue Feb 02 12:37:05 PM - Calculated RSI for GOOGL: 54.32766615146852
+Tue Feb 02 12:37:06 PM - Calculated RSI for NVDA: 53.49650349650413
+Tue Feb 02 12:37:07 PM - Calculated RSI for AAPL: 61.11111111110913
+Tue Feb 02 12:37:08 PM - Calculated RSI for NVAX: 41.03653355989798
+Tue Feb 02 12:37:09 PM - Calculated RSI for FB: 48.46938775510205
+Tue Feb 02 12:38:03 PM - Calculated RSI for GOOGL: 42.67211997273431
+Tue Feb 02 12:38:04 PM - Calculated RSI for NVDA: 58.18815331010467
+Tue Feb 02 12:38:06 PM - Calculated RSI for AAPL: 64.70588235294045
+Tue Feb 02 12:38:07 PM - Calculated RSI for NVAX: 39.10931174089067
+Tue Feb 02 12:38:08 PM - Calculated RSI for FB: 53.57142857142816
+Tue Feb 02 12:39:01 PM - Calculated RSI for GOOGL: 43.02168021680267
+Tue Feb 02 12:39:02 PM - Calculated RSI for NVDA: 46.721311475408235
+Tue Feb 02 12:39:03 PM - Calculated RSI for AAPL: 59.37499999999889
+Tue Feb 02 12:39:04 PM - Calculated RSI for NVAX: 37.018425460636664
+Tue Feb 02 12:39:05 PM - Calculated RSI for FB: 57.36040609137076
+Tue Feb 02 12:40:01 PM - Calculated RSI for GOOGL: 34.229508196721454
+Tue Feb 02 12:40:02 PM - Calculated RSI for NVDA: 48.207171314740485
+Tue Feb 02 12:40:03 PM - Calculated RSI for AAPL: 59.37499999999889
+Tue Feb 02 12:40:04 PM - Calculated RSI for NVAX: 26.27118644067815
+Tue Feb 02 12:40:05 PM - Calculated RSI for FB: 51.891891891891625
+Tue Feb 02 12:41:02 PM - Calculated RSI for GOOGL: 33.8521400778215
+Tue Feb 02 12:41:03 PM - Calculated RSI for NVDA: 55.76208178438549
+Tue Feb 02 12:41:04 PM - Calculated RSI for AAPL: 63.888888888887905
+Tue Feb 02 12:41:05 PM - Calculated RSI for NVAX: 37.58928571428589
+Tue Feb 02 12:41:07 PM - Calculated RSI for FB: 50.26178010471179
+Tue Feb 02 12:42:02 PM - Calculated RSI for GOOGL: 27.83751493428923
+Tue Feb 02 12:42:04 PM - Calculated RSI for NVDA: 63.843648208469205
+Tue Feb 02 12:42:05 PM - Calculated RSI for AAPL: 58.33333333333037
+Tue Feb 02 12:42:07 PM - Calculated RSI for NVAX: 38.69485294117662
+Tue Feb 02 12:42:08 PM - Calculated RSI for FB: 46.92737430167573
+Tue Feb 02 12:43:02 PM - Calculated RSI for GOOGL: 29.781931464174363
+Tue Feb 02 12:43:03 PM - Calculated RSI for NVDA: 64.68646864686404
+Tue Feb 02 12:43:04 PM - Calculated RSI for AAPL: 59.722222222221724
+Tue Feb 02 12:43:05 PM - Calculated RSI for NVAX: 35.56985294117668
+Tue Feb 02 12:43:06 PM - Calculated RSI for FB: 39.49044585987384
+Tue Feb 02 12:44:01 PM - Calculated RSI for GOOGL: 35.269461077844326
+Tue Feb 02 12:44:02 PM - Calculated RSI for NVDA: 64.09395973154216
+Tue Feb 02 12:44:03 PM - Calculated RSI for AAPL: 60.27397260273866
+Tue Feb 02 12:44:04 PM - Calculated RSI for NVAX: 33.30341113105928
+Tue Feb 02 12:44:05 PM - Calculated RSI for FB: 49.39759036144636
+Tue Feb 02 12:45:05 PM - Calculated RSI for GOOGL: 34.24574209245749
+Tue Feb 02 12:45:06 PM - Calculated RSI for NVDA: 63.973063973064
+Tue Feb 02 12:45:07 PM - Calculated RSI for AAPL: 42.85714285714576
+Tue Feb 02 12:45:08 PM - Calculated RSI for NVAX: 35.56149732620335
+Tue Feb 02 12:45:09 PM - Calculated RSI for FB: 53.63128491620083
+Tue Feb 02 12:46:05 PM - Calculated RSI for GOOGL: 22.016706443914117
+Tue Feb 02 12:46:06 PM - Calculated RSI for NVDA: 59.9369085173495
+Tue Feb 02 12:46:07 PM - Calculated RSI for AAPL: 24.52830188679701
+Tue Feb 02 12:46:08 PM - Calculated RSI for NVAX: 39.6636993076162
+Tue Feb 02 12:46:09 PM - Calculated RSI for FB: 42.857142857143714
+Tue Feb 02 12:47:05 PM - Calculated RSI for GOOGL: 26.635514018691623
+Tue Feb 02 12:47:06 PM - Calculated RSI for NVDA: 65.29209621993002
+Tue Feb 02 12:47:07 PM - Calculated RSI for AAPL: 22.033898305090304
+Tue Feb 02 12:47:08 PM - Calculated RSI for NVAX: 39.12195121951245
+Tue Feb 02 12:47:09 PM - Calculated RSI for FB: 47.25274725274834
+Tue Feb 02 12:48:05 PM - Calculated RSI for GOOGL: 33.110164333535494
+Tue Feb 02 12:48:06 PM - Calculated RSI for NVDA: 68.23899371069031
+Tue Feb 02 12:48:07 PM - Calculated RSI for AAPL: 35.71428571428825
+Tue Feb 02 12:48:08 PM - Calculated RSI for NVAX: 36.58536585365865
+Tue Feb 02 12:49:05 PM - Calculated RSI for GOOGL: 27.03363914373047
+Tue Feb 02 12:49:06 PM - Calculated RSI for NVDA: 56.96202531645638
+Tue Feb 02 12:49:08 PM - Calculated RSI for AAPL: 34.48275862069168
+Tue Feb 02 12:49:10 PM - Calculated RSI for NVAX: 35.43307086614186
+Tue Feb 02 12:49:11 PM - Calculated RSI for FB: 35.416666666667595
+Tue Feb 02 12:50:05 PM - Calculated RSI for GOOGL: 29.885057471263863
+Tue Feb 02 12:50:06 PM - Calculated RSI for NVDA: 58.63192182410332
+Tue Feb 02 12:50:07 PM - Calculated RSI for AAPL: 37.03703703704016
+Tue Feb 02 12:50:09 PM - Calculated RSI for NVAX: 30.716723549488023
+Tue Feb 02 12:50:10 PM - Calculated RSI for FB: 35.051546391753845
+Tue Feb 02 12:51:05 PM - Calculated RSI for GOOGL: 35.743243243243114
+Tue Feb 02 12:51:06 PM - Calculated RSI for NVDA: 64.11149825783819
+Tue Feb 02 12:51:08 PM - Calculated RSI for AAPL: 37.037037037036846
+Tue Feb 02 12:51:09 PM - Calculated RSI for NVAX: 34.6576500422655
+Tue Feb 02 12:51:10 PM - Calculated RSI for FB: 33.160621761658206
+Tue Feb 02 12:52:06 PM - Calculated RSI for GOOGL: 34.1731266149868
+Tue Feb 02 12:52:07 PM - Calculated RSI for NVDA: 59.354838709678006
+Tue Feb 02 12:52:08 PM - Calculated RSI for AAPL: 38.46153846154098
+Tue Feb 02 12:52:09 PM - Calculated RSI for NVAX: 32.77378097521988
+Tue Feb 02 12:52:10 PM - Calculated RSI for FB: 44.041450777203444
+Tue Feb 02 12:53:05 PM - Calculated RSI for GOOGL: 38.669590643274404
+Tue Feb 02 12:53:07 PM - Calculated RSI for NVDA: 55.374592833876804
+Tue Feb 02 12:53:08 PM - Calculated RSI for AAPL: 33.33333333333333
+Tue Feb 02 12:53:09 PM - Calculated RSI for NVAX: 45.28954191875555
+Tue Feb 02 12:53:10 PM - Calculated RSI for FB: 43.81443298969102
+Tue Feb 02 12:54:05 PM - Calculated RSI for GOOGL: 34.565050038491194
+Tue Feb 02 12:54:06 PM - Calculated RSI for NVDA: 60.68111455108437
+Tue Feb 02 12:54:08 PM - Calculated RSI for AAPL: 35.593220338985574
+Tue Feb 02 12:54:09 PM - Calculated RSI for NVAX: 46.446700507614096
+Tue Feb 02 12:54:10 PM - Calculated RSI for FB: 39.68253968254121
+Tue Feb 02 12:55:05 PM - Calculated RSI for GOOGL: 39.489885664028606
+Tue Feb 02 12:55:06 PM - Calculated RSI for NVDA: 55.9105431309905
+Tue Feb 02 12:55:07 PM - Calculated RSI for AAPL: 34.4262295081987
+Tue Feb 02 12:55:09 PM - Calculated RSI for NVAX: 47.923875432525875
+Tue Feb 02 12:55:10 PM - Calculated RSI for FB: 36.41304347826193
+Tue Feb 02 12:56:05 PM - Calculated RSI for GOOGL: 33.28391401037811
+Tue Feb 02 12:56:06 PM - Calculated RSI for NVDA: 45.62500000000048
+Tue Feb 02 12:56:07 PM - Calculated RSI for AAPL: 23.636363636365047
+Tue Feb 02 12:56:08 PM - Calculated RSI for NVAX: 40.63116370808665
+Tue Feb 02 12:56:09 PM - Calculated RSI for FB: 39.459459459460604
+Tue Feb 02 12:57:05 PM - Calculated RSI for GOOGL: 49.32384341636992
+Tue Feb 02 12:57:06 PM - Calculated RSI for NVDA: 31.94888178913743
+Tue Feb 02 12:57:07 PM - Calculated RSI for AAPL: 28.301886792456173
+Tue Feb 02 12:57:08 PM - Calculated RSI for NVAX: 37.93738489871086
+Tue Feb 02 12:57:09 PM - Calculated RSI for FB: 47.7011494252879
+Tue Feb 02 12:58:05 PM - Calculated RSI for GOOGL: 45.15915119363463
+Tue Feb 02 12:58:06 PM - Calculated RSI for NVDA: 30.39513677811584
+Tue Feb 02 12:58:07 PM - Calculated RSI for AAPL: 23.728813559323257
+Tue Feb 02 12:58:08 PM - Calculated RSI for NVAX: 38.649155722326405
+Tue Feb 02 12:58:09 PM - Calculated RSI for FB: 40.68627450980438
+Tue Feb 02 12:59:04 PM - Calculated RSI for GOOGL: 41.88334504567835
+Tue Feb 02 12:59:05 PM - Calculated RSI for NVDA: 34.00576368876237
+Tue Feb 02 12:59:06 PM - Calculated RSI for AAPL: 23.728813559323257
+Tue Feb 02 12:59:07 PM - Calculated RSI for NVAX: 38.397017707362714
+Tue Feb 02 12:59:08 PM - Calculated RSI for FB: 45.49549549549453
+Tue Feb 02 01:00:04 PM - Calculated RSI for GOOGL: 47.82334384858026
+Tue Feb 02 01:00:05 PM - Calculated RSI for NVDA: 27.070063694265713
+Tue Feb 02 01:00:06 PM - Calculated RSI for AAPL: 31.147540983605495
+Tue Feb 02 01:00:07 PM - Calculated RSI for NVAX: 35.621521335806904
+Tue Feb 02 01:00:08 PM - Calculated RSI for FB: 46.92982456140392
+Tue Feb 02 01:01:04 PM - Calculated RSI for GOOGL: 58.030726256983115
+Tue Feb 02 01:01:05 PM - Calculated RSI for NVDA: 35.999999999998934
+Tue Feb 02 01:01:07 PM - Calculated RSI for AAPL: 34.5454545454552
+Tue Feb 02 01:01:08 PM - Calculated RSI for NVAX: 30.981346309813446
+Tue Feb 02 01:01:09 PM - Calculated RSI for FB: 42.2727272727282
+Tue Feb 02 01:02:05 PM - Calculated RSI for GOOGL: 53.18725099601607
+Tue Feb 02 01:02:06 PM - Calculated RSI for NVDA: 34.39490445859779
+Tue Feb 02 01:02:07 PM - Calculated RSI for AAPL: 38.77551020408045
+Tue Feb 02 01:02:08 PM - Calculated RSI for NVAX: 31.33716160787526
+Tue Feb 02 01:02:09 PM - Calculated RSI for FB: 43.867924528302446
+Tue Feb 02 01:03:05 PM - Calculated RSI for GOOGL: 45.68713450292452
+Tue Feb 02 01:03:06 PM - Calculated RSI for NVDA: 30.169491525423965
+Tue Feb 02 01:03:07 PM - Calculated RSI for AAPL: 25.000000000000014
+Tue Feb 02 01:03:08 PM - Calculated RSI for NVAX: 25.34722222222227
+Tue Feb 02 01:03:09 PM - Calculated RSI for FB: 43.601895734597974
+Tue Feb 02 01:04:05 PM - Calculated RSI for GOOGL: 52.489019033674396
+Tue Feb 02 01:04:06 PM - Calculated RSI for NVDA: 29.666666666666202
+Tue Feb 02 01:04:07 PM - Calculated RSI for AAPL: 35.84905660377652
+Tue Feb 02 01:04:09 PM - Calculated RSI for NVAX: 41.306058221872426
+Tue Feb 02 01:04:10 PM - Calculated RSI for FB: 50.543478260870586
+Tue Feb 02 01:05:05 PM - Calculated RSI for GOOGL: 51.39784946236598
+Tue Feb 02 01:05:06 PM - Calculated RSI for NVDA: 29.765886287624866
+Tue Feb 02 01:05:08 PM - Calculated RSI for AAPL: 37.25490196078596
+Tue Feb 02 01:05:08 PM - Calculated RSI for NVAX: 47.46835443037974
+Tue Feb 02 01:05:10 PM - Calculated RSI for FB: 53.7572254335256
+Tue Feb 02 01:06:05 PM - Calculated RSI for GOOGL: 45.88492352512693
+Tue Feb 02 01:06:07 PM - Calculated RSI for NVDA: 30.23255813953655
+Tue Feb 02 01:06:08 PM - Calculated RSI for AAPL: 42.857142857145035
+Tue Feb 02 01:06:09 PM - Calculated RSI for NVAX: 51.90397350993393
+Tue Feb 02 01:06:10 PM - Calculated RSI for FB: 56.250000000000405
+Tue Feb 02 01:07:06 PM - Calculated RSI for GOOGL: 43.35856847900851
+Tue Feb 02 01:07:07 PM - Calculated RSI for NVDA: 30.847457627119752
+Tue Feb 02 01:07:08 PM - Calculated RSI for AAPL: 41.37931034482708
+Tue Feb 02 01:07:09 PM - Calculated RSI for NVAX: 57.051865332120116
+Tue Feb 02 01:07:10 PM - Calculated RSI for FB: 52.46913580246856
+Tue Feb 02 01:08:05 PM - Calculated RSI for GOOGL: 50.329815303430536
+Tue Feb 02 01:08:06 PM - Calculated RSI for NVDA: 37.54045307443454
+Tue Feb 02 01:08:08 PM - Calculated RSI for AAPL: 45.28301886792665
+Tue Feb 02 01:08:09 PM - Calculated RSI for NVAX: 49.51737451737441
+Tue Feb 02 01:08:10 PM - Calculated RSI for FB: 55.92105263157902
+Tue Feb 02 01:09:05 PM - Calculated RSI for GOOGL: 45.908543922983945
+Tue Feb 02 01:09:06 PM - Calculated RSI for NVDA: 30.612244897960537
+Tue Feb 02 01:09:07 PM - Calculated RSI for AAPL: 48.2142857142849
+Tue Feb 02 01:09:08 PM - Calculated RSI for NVAX: 43.702906350915235
+Tue Feb 02 01:09:09 PM - Calculated RSI for FB: 55.19480519480594
+Tue Feb 02 01:10:05 PM - Calculated RSI for GOOGL: 36.298763082778166
+Tue Feb 02 01:10:06 PM - Calculated RSI for NVDA: 37.54045307443454
+Tue Feb 02 01:10:07 PM - Calculated RSI for AAPL: 44.2622950819679
+Tue Feb 02 01:10:08 PM - Calculated RSI for NVAX: 49.56605593056907
+Tue Feb 02 01:10:09 PM - Calculated RSI for FB: 50.59523809523754
+Tue Feb 02 01:11:05 PM - Calculated RSI for GOOGL: 39.65696465696496
+Tue Feb 02 01:11:06 PM - Calculated RSI for NVDA: 42.181818181819416
+Tue Feb 02 01:11:07 PM - Calculated RSI for AAPL: 49.20634920634993
+Tue Feb 02 01:11:08 PM - Calculated RSI for NVAX: 52.150045745654275
+Tue Feb 02 01:11:09 PM - Calculated RSI for FB: 48.17073170731705
+Tue Feb 02 01:12:05 PM - Calculated RSI for GOOGL: 38.53890947591302
+Tue Feb 02 01:12:06 PM - Calculated RSI for NVDA: 43.122676579925994
+Tue Feb 02 01:12:07 PM - Calculated RSI for AAPL: 46.774193548387615
+Tue Feb 02 01:12:08 PM - Calculated RSI for NVAX: 57.89971617786164
+Tue Feb 02 01:12:10 PM - Calculated RSI for FB: 47.53086419753145
+Tue Feb 02 01:13:05 PM - Calculated RSI for GOOGL: 44.45034519383907
+Tue Feb 02 01:13:06 PM - Calculated RSI for NVDA: 46.963562753037074
+Tue Feb 02 01:13:08 PM - Calculated RSI for AAPL: 50.0
+Tue Feb 02 01:13:08 PM - Calculated RSI for NVAX: 54.49688334817476
+Tue Feb 02 01:13:09 PM - Calculated RSI for FB: 63.33333333333397
+Tue Feb 02 01:14:05 PM - Calculated RSI for GOOGL: 45.005257623553796
+Tue Feb 02 01:14:07 PM - Calculated RSI for NVDA: 40.0
+Tue Feb 02 01:14:08 PM - Calculated RSI for AAPL: 42.62295081967167
+Tue Feb 02 01:14:09 PM - Calculated RSI for NVAX: 58.41584158415842
+Tue Feb 02 01:14:10 PM - Calculated RSI for FB: 57.364341085271114
+Tue Feb 02 01:15:05 PM - Calculated RSI for GOOGL: 37.81464530892437
+Tue Feb 02 01:15:06 PM - Calculated RSI for NVDA: 37.71186440678005
+Tue Feb 02 01:15:07 PM - Calculated RSI for AAPL: 41.66666666666706
+Tue Feb 02 01:15:08 PM - Calculated RSI for NVAX: 63.01724137931055
+Tue Feb 02 01:15:09 PM - Calculated RSI for FB: 48.11320754716885
+Tue Feb 02 01:16:06 PM - Calculated RSI for GOOGL: 34.71074380165301
+Tue Feb 02 01:16:07 PM - Calculated RSI for NVDA: 27.049180327870346
+Tue Feb 02 01:16:08 PM - Calculated RSI for AAPL: 44.06779661016769
+Tue Feb 02 01:16:09 PM - Calculated RSI for NVAX: 72.8813559322036
+Tue Feb 02 01:16:10 PM - Calculated RSI for FB: 49.51456310679381
+Tue Feb 02 01:17:05 PM - Calculated RSI for GOOGL: 37.25735754539748
+Tue Feb 02 01:17:07 PM - Calculated RSI for NVDA: 25.882352941177842
+Tue Feb 02 01:17:08 PM - Calculated RSI for AAPL: 44.827586206896214
+Tue Feb 02 01:17:09 PM - Calculated RSI for NVAX: 73.46733668341719
+Tue Feb 02 01:17:11 PM - Calculated RSI for FB: 53.125000000000185
+Tue Feb 02 01:18:06 PM - Calculated RSI for GOOGL: 38.16549069916572
+Tue Feb 02 01:18:07 PM - Calculated RSI for NVDA: 21.673003802282366
+Tue Feb 02 01:18:08 PM - Calculated RSI for AAPL: 48.14814814814971
+Tue Feb 02 01:18:09 PM - Calculated RSI for NVAX: 68.25396825396841
+Tue Feb 02 01:18:10 PM - Calculated RSI for FB: 61.53846153846116
+Tue Feb 02 01:19:06 PM - Calculated RSI for GOOGL: 38.44189016602833
+Tue Feb 02 01:19:07 PM - Calculated RSI for NVDA: 22.007722007722705
+Tue Feb 02 01:19:08 PM - Calculated RSI for AAPL: 28.787878787876764
+Tue Feb 02 01:19:09 PM - Calculated RSI for NVAX: 63.12364425162703
+Tue Feb 02 01:19:11 PM - Calculated RSI for FB: 48.29931972789074
+Tue Feb 02 01:20:05 PM - Calculated RSI for GOOGL: 31.8181818181816
+Tue Feb 02 01:20:07 PM - Calculated RSI for NVDA: 21.189591078068347
+Tue Feb 02 01:20:08 PM - Calculated RSI for AAPL: 26.76056338027921
+Tue Feb 02 01:20:09 PM - Calculated RSI for NVAX: 66.99702675916757
+Tue Feb 02 01:20:10 PM - Calculated RSI for FB: 41.76470588235202
+Tue Feb 02 01:21:05 PM - Calculated RSI for GOOGL: 31.90249072602022
+Tue Feb 02 01:21:07 PM - Calculated RSI for NVDA: 30.491803278687343
+Tue Feb 02 01:21:08 PM - Calculated RSI for AAPL: 19.696969696966505
+Tue Feb 02 01:21:09 PM - Calculated RSI for NVAX: 63.20441988950275
+Tue Feb 02 01:22:05 PM - Calculated RSI for GOOGL: 33.463035019455546
+Tue Feb 02 01:22:06 PM - Calculated RSI for NVDA: 30.19480519480429
+Tue Feb 02 01:22:07 PM - Calculated RSI for AAPL: 25.757575757573008
+Tue Feb 02 01:22:08 PM - Calculated RSI for NVAX: 67.67567567567599
+Tue Feb 02 01:22:10 PM - Calculated RSI for FB: 35.32608695652098
+Tue Feb 02 01:38:05 PM - Calculated RSI for GOOGL: 77.11026615969698
+Tue Feb 02 01:38:06 PM - Wanted to sell stock GOOGL at RSI: 77.11026615969698 but the account did not have positions
+Tue Feb 02 01:38:07 PM - Calculated RSI for NVDA: 78.94736842105355
+Tue Feb 02 01:38:07 PM - Wanted to sell stock NVDA at RSI: 78.94736842105355 but the account did not have positions
+Tue Feb 02 01:38:08 PM - Calculated RSI for AAPL: 75.47169811320168
+Tue Feb 02 01:38:08 PM - Wanted to sell stock AAPL at RSI: 75.47169811320168 but the account did not have positions
+Tue Feb 02 01:38:09 PM - Calculated RSI for NVAX: 70.24320457796847
+Tue Feb 02 01:38:09 PM - Wanted to sell stock NVAX at RSI: 70.24320457796847 but the account did not have positions
+Tue Feb 02 01:38:10 PM - Calculated RSI for FB: 66.91176470588351
+Tue Feb 02 01:39:06 PM - Calculated RSI for GOOGL: 77.00534759358415
+Tue Feb 02 01:39:06 PM - Wanted to sell stock GOOGL at RSI: 77.00534759358415 but the account did not have positions
+Tue Feb 02 01:39:07 PM - Calculated RSI for NVDA: 80.34682080924956
+Tue Feb 02 01:39:07 PM - Wanted to sell stock NVDA at RSI: 80.34682080924956 but the account did not have positions
+Tue Feb 02 01:39:09 PM - Calculated RSI for AAPL: 79.62962962962476
+Tue Feb 02 01:39:09 PM - Wanted to sell stock AAPL at RSI: 79.62962962962476 but the account did not have positions
+Tue Feb 02 01:39:10 PM - Calculated RSI for NVAX: 70.49645390070916
+Tue Feb 02 01:39:10 PM - Wanted to sell stock NVAX at RSI: 70.49645390070916 but the account did not have positions
+Tue Feb 02 01:39:11 PM - Calculated RSI for FB: 72.32704402515793
+Tue Feb 02 01:39:11 PM - Wanted to sell stock FB at RSI: 72.32704402515793 but the account did not have positions
+Tue Feb 02 01:40:06 PM - Calculated RSI for GOOGL: 80.86124401914017
+Tue Feb 02 01:40:06 PM - Wanted to sell stock GOOGL at RSI: 80.86124401914017 but the account did not have positions
+Tue Feb 02 01:40:07 PM - Calculated RSI for NVDA: 84.16886543535797
+Tue Feb 02 01:40:07 PM - Wanted to sell stock NVDA at RSI: 84.16886543535797 but the account did not have positions
+Tue Feb 02 01:40:08 PM - Calculated RSI for AAPL: 79.24528301886338
+Tue Feb 02 01:40:08 PM - Wanted to sell stock AAPL at RSI: 79.24528301886338 but the account did not have positions
+Tue Feb 02 01:40:09 PM - Calculated RSI for NVAX: 75.2054794520544
+Tue Feb 02 01:40:09 PM - Wanted to sell stock NVAX at RSI: 75.2054794520544 but the account did not have positions
+Tue Feb 02 01:40:11 PM - Calculated RSI for FB: 72.32704402515793
+Tue Feb 02 01:40:11 PM - Wanted to sell stock FB at RSI: 72.32704402515793 but the account did not have positions
+Tue Feb 02 01:41:05 PM - Calculated RSI for GOOGL: 83.00970873786488
+Tue Feb 02 01:41:05 PM - Wanted to sell stock GOOGL at RSI: 83.00970873786488 but the account did not have positions
+Tue Feb 02 01:41:06 PM - Calculated RSI for NVDA: 80.75949367088597
+Tue Feb 02 01:41:06 PM - Wanted to sell stock NVDA at RSI: 80.75949367088597 but the account did not have positions
+Tue Feb 02 01:41:08 PM - Calculated RSI for AAPL: 74.46808510638053
+Tue Feb 02 01:41:08 PM - Wanted to sell stock AAPL at RSI: 74.46808510638053 but the account did not have positions
+Tue Feb 02 01:41:09 PM - Calculated RSI for NVAX: 68.23056300268078
+Tue Feb 02 01:41:10 PM - Calculated RSI for FB: 66.86046511627778
+Tue Feb 02 01:42:05 PM - Calculated RSI for GOOGL: 76.6195085629191
+Tue Feb 02 01:42:05 PM - Wanted to sell stock GOOGL at RSI: 76.6195085629191 but the account did not have positions
+Tue Feb 02 01:42:06 PM - Calculated RSI for NVDA: 80.80808080808066
+Tue Feb 02 01:42:07 PM - Wanted to sell stock NVDA at RSI: 80.80808080808066 but the account did not have positions
+Tue Feb 02 01:42:08 PM - Calculated RSI for AAPL: 73.33333333333039
+Tue Feb 02 01:42:08 PM - Wanted to sell stock AAPL at RSI: 73.33333333333039 but the account did not have positions
+Tue Feb 02 01:42:09 PM - Calculated RSI for NVAX: 67.44505494505475
+Tue Feb 02 01:42:10 PM - Calculated RSI for FB: 66.47398843930544
+Tue Feb 02 01:43:05 PM - Calculated RSI for GOOGL: 83.62068965517379
+Tue Feb 02 01:43:05 PM - Wanted to sell stock GOOGL at RSI: 83.62068965517379 but the account did not have positions
+Tue Feb 02 01:43:07 PM - Calculated RSI for NVDA: 78.59154929577463
+Tue Feb 02 01:43:07 PM - Wanted to sell stock NVDA at RSI: 78.59154929577463 but the account did not have positions
+Tue Feb 02 01:43:08 PM - Calculated RSI for AAPL: 76.47058823528985
+Tue Feb 02 01:43:08 PM - Wanted to sell stock AAPL at RSI: 76.47058823528985 but the account did not have positions
+Tue Feb 02 01:43:09 PM - Calculated RSI for NVAX: 71.27272727272693
+Tue Feb 02 01:43:09 PM - Wanted to sell stock NVAX at RSI: 71.27272727272693 but the account did not have positions
+Tue Feb 02 01:43:10 PM - Calculated RSI for FB: 66.0818713450287
+Tue Feb 02 01:44:05 PM - Calculated RSI for GOOGL: 80.1101169993123
+Tue Feb 02 01:44:05 PM - Wanted to sell stock GOOGL at RSI: 80.1101169993123 but the account did not have positions
+Tue Feb 02 01:44:06 PM - Calculated RSI for NVDA: 81.57181571815823
+Tue Feb 02 01:44:06 PM - Wanted to sell stock NVDA at RSI: 81.57181571815823 but the account did not have positions
+Tue Feb 02 01:44:08 PM - Calculated RSI for AAPL: 79.59183673469542
+Tue Feb 02 01:44:08 PM - Wanted to sell stock AAPL at RSI: 79.59183673469542 but the account did not have positions
+Tue Feb 02 01:44:09 PM - Calculated RSI for NVAX: 68.4516880093126
+Tue Feb 02 01:44:10 PM - Calculated RSI for FB: 70.81081081081096
+Tue Feb 02 01:44:10 PM - Wanted to sell stock FB at RSI: 70.81081081081096 but the account did not have positions
+Tue Feb 02 01:45:05 PM - Calculated RSI for GOOGL: 79.90264255911028
+Tue Feb 02 01:45:06 PM - Wanted to sell stock GOOGL at RSI: 79.90264255911028 but the account did not have positions
+Tue Feb 02 01:45:07 PM - Calculated RSI for NVDA: 81.866666666668
+Tue Feb 02 01:45:07 PM - Wanted to sell stock NVDA at RSI: 81.866666666668 but the account did not have positions
+Tue Feb 02 01:45:08 PM - Calculated RSI for AAPL: 82.4561403508771
+Tue Feb 02 01:45:08 PM - Wanted to sell stock AAPL at RSI: 82.4561403508771 but the account did not have positions
+Tue Feb 02 01:45:09 PM - Calculated RSI for NVAX: 60.567010309278416
+Tue Feb 02 01:45:10 PM - Calculated RSI for FB: 68.3060109289612
+Tue Feb 02 01:46:05 PM - Calculated RSI for GOOGL: 77.24409448818965
+Tue Feb 02 01:46:05 PM - Wanted to sell stock GOOGL at RSI: 77.24409448818965 but the account did not have positions
+Tue Feb 02 01:46:06 PM - Calculated RSI for NVDA: 82.10526315789531
+Tue Feb 02 01:46:06 PM - Wanted to sell stock NVDA at RSI: 82.10526315789531 but the account did not have positions
+Tue Feb 02 01:46:08 PM - Calculated RSI for AAPL: 81.03448275862576
+Tue Feb 02 01:46:08 PM - Wanted to sell stock AAPL at RSI: 81.03448275862576 but the account did not have positions
+Tue Feb 02 01:46:09 PM - Calculated RSI for NVAX: 62.36162361623594
+Tue Feb 02 01:46:09 PM - Calculated RSI for FB: 64.19753086419637
+Tue Feb 02 01:47:05 PM - Calculated RSI for GOOGL: 63.618677042800904
+Tue Feb 02 01:47:07 PM - Calculated RSI for NVDA: 78.28282828282977
+Tue Feb 02 01:47:07 PM - Wanted to sell stock NVDA at RSI: 78.28282828282977 but the account did not have positions
+Tue Feb 02 01:47:08 PM - Calculated RSI for AAPL: 71.69811320755232
+Tue Feb 02 01:47:08 PM - Wanted to sell stock AAPL at RSI: 71.69811320755232 but the account did not have positions
+Tue Feb 02 01:47:09 PM - Calculated RSI for NVAX: 57.5482406356415
+Tue Feb 02 01:47:10 PM - Calculated RSI for FB: 60.11560693641675
+Tue Feb 02 01:48:05 PM - Calculated RSI for GOOGL: 64.13043478260863
+Tue Feb 02 01:48:07 PM - Calculated RSI for NVDA: 72.92682926829377
+Tue Feb 02 01:48:07 PM - Wanted to sell stock NVDA at RSI: 72.92682926829377 but the account did not have positions
+Tue Feb 02 01:48:08 PM - Calculated RSI for AAPL: 70.00000000000512
+Tue Feb 02 01:48:08 PM - Wanted to sell stock AAPL at RSI: 70.00000000000512 but the account did not have positions
+Tue Feb 02 01:48:09 PM - Calculated RSI for NVAX: 55.77557755775578
+Tue Feb 02 01:48:10 PM - Calculated RSI for FB: 57.05521472392497
+Tue Feb 02 01:49:05 PM - Calculated RSI for GOOGL: 60.2185089974291
+Tue Feb 02 01:49:06 PM - Calculated RSI for NVDA: 68.47290640394114
+Tue Feb 02 01:49:08 PM - Calculated RSI for AAPL: 72.91666666666976
+Tue Feb 02 01:49:08 PM - Wanted to sell stock AAPL at RSI: 72.91666666666976 but the account did not have positions
+Tue Feb 02 01:49:09 PM - Calculated RSI for NVAX: 58.12499999999995
+Tue Feb 02 01:49:10 PM - Calculated RSI for FB: 55.35714285714304
+Tue Feb 02 01:50:05 PM - Calculated RSI for GOOGL: 55.668789808916934
+Tue Feb 02 01:50:06 PM - Calculated RSI for NVDA: 63.9436619718313
+Tue Feb 02 01:50:07 PM - Calculated RSI for AAPL: 59.574468085107924
+Tue Feb 02 01:50:08 PM - Calculated RSI for NVAX: 51.03857566765568
+Tue Feb 02 01:50:09 PM - Calculated RSI for FB: 55.62130177514787
+Tue Feb 02 01:51:05 PM - Calculated RSI for GOOGL: 60.64935064935092
+Tue Feb 02 01:51:07 PM - Calculated RSI for NVDA: 73.62318840579594
+Tue Feb 02 01:51:07 PM - Wanted to sell stock NVDA at RSI: 73.62318840579594 but the account did not have positions
+Tue Feb 02 01:51:08 PM - Calculated RSI for AAPL: 61.2244897959186
+Tue Feb 02 01:51:09 PM - Calculated RSI for NVAX: 54.283054003724445
+Tue Feb 02 01:51:10 PM - Calculated RSI for FB: 56.80473372781097
+Tue Feb 02 01:52:05 PM - Calculated RSI for GOOGL: 48.07350326022572
+Tue Feb 02 01:52:06 PM - Calculated RSI for NVDA: 72.35294117646822
+Tue Feb 02 01:52:06 PM - Wanted to sell stock NVDA at RSI: 72.35294117646822 but the account did not have positions
+Tue Feb 02 01:52:07 PM - Calculated RSI for AAPL: 65.2173913043489
+Tue Feb 02 01:52:08 PM - Calculated RSI for NVAX: 44.557556773688184
+Tue Feb 02 01:52:09 PM - Calculated RSI for FB: 53.038674033149455
+Tue Feb 02 01:53:05 PM - Calculated RSI for GOOGL: 55.318039624608666
+Tue Feb 02 01:53:06 PM - Calculated RSI for NVDA: 62.86549707602262
+Tue Feb 02 01:53:07 PM - Calculated RSI for AAPL: 59.52380952381258
+Tue Feb 02 01:53:09 PM - Calculated RSI for NVAX: 41.411935953420624
+Tue Feb 02 01:53:10 PM - Calculated RSI for FB: 47.20496894409841
+Tue Feb 02 01:54:05 PM - Calculated RSI for GOOGL: 54.04992358634706
+Tue Feb 02 01:54:06 PM - Calculated RSI for NVDA: 60.06289308176023
+Tue Feb 02 01:54:07 PM - Calculated RSI for AAPL: 57.500000000001776
+Tue Feb 02 01:54:08 PM - Calculated RSI for NVAX: 45.05119453924898
+Tue Feb 02 01:54:09 PM - Calculated RSI for FB: 37.68115942028866
+Tue Feb 02 01:55:06 PM - Calculated RSI for GOOGL: 47.4304068522484
+Tue Feb 02 01:55:07 PM - Calculated RSI for NVDA: 54.31654676258977
+Tue Feb 02 01:55:08 PM - Calculated RSI for AAPL: 52.500000000001954
+Tue Feb 02 01:55:09 PM - Calculated RSI for NVAX: 39.81663392272424
+Tue Feb 02 01:55:10 PM - Calculated RSI for FB: 37.68115942028866
+Tue Feb 02 01:56:05 PM - Calculated RSI for GOOGL: 49.19813760993292
+Tue Feb 02 01:56:06 PM - Calculated RSI for NVDA: 60.40000000000144
+Tue Feb 02 01:56:07 PM - Calculated RSI for AAPL: 59.090909090909676
+Tue Feb 02 01:56:08 PM - Calculated RSI for NVAX: 40.778001341381604
+Tue Feb 02 01:56:09 PM - Calculated RSI for FB: 44.067796610169815
+Tue Feb 02 01:57:05 PM - Calculated RSI for GOOGL: 49.89506820566642
+Tue Feb 02 01:57:06 PM - Calculated RSI for NVDA: 55.50847457627069
+Tue Feb 02 01:57:07 PM - Calculated RSI for AAPL: 53.06122448979687
+Tue Feb 02 01:57:08 PM - Calculated RSI for NVAX: 41.32890365448498
+Tue Feb 02 01:57:09 PM - Calculated RSI for FB: 41.935483870967886
+Tue Feb 02 01:58:05 PM - Calculated RSI for GOOGL: 48.71106337271751
+Tue Feb 02 01:58:06 PM - Calculated RSI for NVDA: 57.489878542509786
+Tue Feb 02 01:58:07 PM - Calculated RSI for AAPL: 37.49999999999704
+Tue Feb 02 01:58:08 PM - Calculated RSI for NVAX: 35.35871156661783
+Tue Feb 02 01:58:09 PM - Calculated RSI for FB: 33.94495412843811
+Tue Feb 02 01:59:05 PM - Calculated RSI for GOOGL: 48.37333333333308
+Tue Feb 02 01:59:06 PM - Calculated RSI for NVDA: 51.06382978723302
+Tue Feb 02 01:59:07 PM - Calculated RSI for AAPL: 41.6666666666642
+Tue Feb 02 01:59:08 PM - Calculated RSI for NVAX: 43.391902215431756
+Tue Feb 02 01:59:09 PM - Calculated RSI for FB: 20.65217391303925
+Tue Feb 02 01:59:09 PM - Wanted to add a sell trail to stock FB at RSI: 20.65217391303925 but the sell order failed
+Tue Feb 02 02:00:05 PM - Calculated RSI for GOOGL: 45.77030812324958
+Tue Feb 02 02:00:06 PM - Calculated RSI for NVDA: 47.72727272727238
+Tue Feb 02 02:00:07 PM - Calculated RSI for AAPL: 29.99999999999787
+Tue Feb 02 02:00:07 PM - Wanted to add a sell trail to stock AAPL at RSI: 29.99999999999787 but the sell order failed
+Tue Feb 02 02:00:08 PM - Calculated RSI for NVAX: 39.60948396094835
+Tue Feb 02 02:00:09 PM - Calculated RSI for FB: 29.591836734693047
+Tue Feb 02 02:00:10 PM - Added a sell trail to stock FB at RSI: 29.591836734693047
+Tue Feb 02 02:01:05 PM - Calculated RSI for GOOGL: 41.2624196376392
+Tue Feb 02 02:01:06 PM - Calculated RSI for NVDA: 49.33920704845882
+Tue Feb 02 02:01:07 PM - Calculated RSI for AAPL: 38.09523809523842
+Tue Feb 02 02:01:08 PM - Calculated RSI for NVAX: 36.370315944158584
+Tue Feb 02 02:01:09 PM - Calculated RSI for FB: 27.83505154639073
+Tue Feb 02 02:01:10 PM - Added a sell trail to stock FB at RSI: 27.83505154639073
+Tue Feb 02 02:02:05 PM - Calculated RSI for GOOGL: 54.17488494411621
+Tue Feb 02 02:02:06 PM - Calculated RSI for NVDA: 59.75103734439766
+Tue Feb 02 02:02:07 PM - Calculated RSI for AAPL: 41.0256410256386
+Tue Feb 02 02:02:08 PM - Calculated RSI for NVAX: 38.13559322033884
+Tue Feb 02 02:02:09 PM - Calculated RSI for FB: 32.92682926829073
+Tue Feb 02 02:03:06 PM - Calculated RSI for GOOGL: 43.80952380952385
+Tue Feb 02 02:03:07 PM - Calculated RSI for NVDA: 57.83132530120344
+Tue Feb 02 02:03:08 PM - Calculated RSI for AAPL: 39.99999999999857
+Tue Feb 02 02:03:08 PM - Calculated RSI for NVAX: 38.16499614494989
+Tue Feb 02 02:03:09 PM - Calculated RSI for FB: 23.076923076922327
+Tue Feb 02 02:03:10 PM - Added a sell trail to stock FB at RSI: 23.076923076922327
+Tue Feb 02 02:04:01 PM - Calculated RSI for GOOGL: 42.56227758007168
+Tue Feb 02 02:04:02 PM - Calculated RSI for NVDA: 60.75949367088432
+Tue Feb 02 02:04:03 PM - Calculated RSI for AAPL: 39.024390243901934
+Tue Feb 02 02:04:04 PM - Calculated RSI for NVAX: 35.53054662379435
+Tue Feb 02 02:04:05 PM - Calculated RSI for FB: 20.300751879698126
+Tue Feb 02 02:04:05 PM - Added a sell trail to stock FB at RSI: 20.300751879698126
+Tue Feb 02 02:05:09 PM - Calculated RSI for GOOGL: 44.13284132841377
+Tue Feb 02 02:05:10 PM - Calculated RSI for NVDA: 52.36363636363598
+Tue Feb 02 02:05:11 PM - Calculated RSI for AAPL: 40.000000000001414
+Tue Feb 02 02:05:13 PM - Calculated RSI for NVAX: 38.136324417601415
+Tue Feb 02 02:05:14 PM - Calculated RSI for FB: 27.397260273974254
+Tue Feb 02 02:05:14 PM - Added a sell trail to stock FB at RSI: 27.397260273974254
+Tue Feb 02 02:06:11 PM - Calculated RSI for GOOGL: 41.544401544401516
+Tue Feb 02 02:06:12 PM - Calculated RSI for NVDA: 50.566037735848475
+Tue Feb 02 02:06:14 PM - Calculated RSI for AAPL: 33.33333333333333
+Tue Feb 02 02:06:15 PM - Calculated RSI for NVAX: 36.3232682060392
+Tue Feb 02 02:06:16 PM - Calculated RSI for FB: 31.1688311688294
+Tue Feb 02 02:07:06 PM - Calculated RSI for GOOGL: 53.838862559241385
+Tue Feb 02 02:07:07 PM - Calculated RSI for NVDA: 56.46258503401316
+Tue Feb 02 02:07:08 PM - Calculated RSI for AAPL: 40.90909090909267
+Tue Feb 02 02:07:09 PM - Calculated RSI for NVAX: 43.837084673097685
+Tue Feb 02 02:07:10 PM - Calculated RSI for FB: 38.686131386860794
+Tue Feb 02 02:08:05 PM - Calculated RSI for GOOGL: 45.94894561598224
+Tue Feb 02 02:08:06 PM - Calculated RSI for NVDA: 64.41947565542876
+Tue Feb 02 02:08:07 PM - Calculated RSI for AAPL: 39.99999999999999
+Tue Feb 02 02:08:08 PM - Calculated RSI for NVAX: 52.137767220902674
+Tue Feb 02 02:08:09 PM - Calculated RSI for FB: 36.36363636363636
+Tue Feb 02 02:09:05 PM - Calculated RSI for GOOGL: 45.64498346196279
+Tue Feb 02 02:09:06 PM - Calculated RSI for NVDA: 62.204724409447444
+Tue Feb 02 02:09:07 PM - Calculated RSI for AAPL: 47.05882352941176
+Tue Feb 02 02:09:08 PM - Calculated RSI for NVAX: 42.408376963351095
+Tue Feb 02 02:09:09 PM - Calculated RSI for FB: 37.49999999999901
+Tue Feb 02 02:10:05 PM - Calculated RSI for GOOGL: 51.41176470588237
+Tue Feb 02 02:10:06 PM - Calculated RSI for NVDA: 59.69581749049288
+Tue Feb 02 02:10:07 PM - Calculated RSI for AAPL: 48.9795918367328
+Tue Feb 02 02:10:08 PM - Calculated RSI for NVAX: 55.8863328822733
+Tue Feb 02 02:10:09 PM - Calculated RSI for FB: 32.51533742331243
+Tue Feb 02 02:11:06 PM - Calculated RSI for GOOGL: 35.72854291417164
+Tue Feb 02 02:11:07 PM - Calculated RSI for NVDA: 61.13207547169523
+Tue Feb 02 02:11:08 PM - Calculated RSI for AAPL: 43.18181818181877
+Tue Feb 02 02:11:09 PM - Calculated RSI for NVAX: 65.46275395033842
+Tue Feb 02 02:11:10 PM - Calculated RSI for FB: 28.961748633879438
+Tue Feb 02 02:11:10 PM - Added a sell trail to stock FB at RSI: 28.961748633879438
+Tue Feb 02 02:12:05 PM - Calculated RSI for GOOGL: 43.153918791312584
+Tue Feb 02 02:12:06 PM - Calculated RSI for NVDA: 54.36241610738204
+Tue Feb 02 02:12:07 PM - Calculated RSI for AAPL: 39.5833333333326
+Tue Feb 02 02:12:08 PM - Calculated RSI for NVAX: 63.614744351961605
+Tue Feb 02 02:12:09 PM - Calculated RSI for FB: 28.648648648647708
+Tue Feb 02 02:12:09 PM - Added a sell trail to stock FB at RSI: 28.648648648647708
+Tue Feb 02 02:13:02 PM - Calculated RSI for GOOGL: 35.56851311953366
+Tue Feb 02 02:13:03 PM - Calculated RSI for NVDA: 49.06367041198598
+Tue Feb 02 02:13:04 PM - Calculated RSI for AAPL: 53.19148936170186
+Tue Feb 02 02:13:05 PM - Calculated RSI for NVAX: 62.40786240786215
+Tue Feb 02 02:13:06 PM - Calculated RSI for FB: 27.86885245901614
+Tue Feb 02 02:13:06 PM - Added a sell trail to stock FB at RSI: 27.86885245901614
+Tue Feb 02 02:14:18 PM - Calculated RSI for GOOGL: 48.70651204281907
+Tue Feb 02 02:14:19 PM - Calculated RSI for NVDA: 53.333333333334174
+Tue Feb 02 02:14:20 PM - Calculated RSI for AAPL: 51.11111111111
+Tue Feb 02 02:14:21 PM - Calculated RSI for NVAX: 63.48448687350813
+Tue Feb 02 02:14:22 PM - Calculated RSI for FB: 29.189189189189932
+Tue Feb 02 02:14:22 PM - Added a sell trail to stock FB at RSI: 29.189189189189932
+Tue Feb 02 02:15:01 PM - Calculated RSI for GOOGL: 47.643979057591785
+Tue Feb 02 02:15:02 PM - Calculated RSI for NVDA: 50.724637681158704
+Tue Feb 02 02:15:04 PM - Calculated RSI for AAPL: 50.0
+Tue Feb 02 02:15:05 PM - Calculated RSI for NVAX: 76.98986975397955
+Tue Feb 02 02:15:05 PM - Wanted to sell stock NVAX at RSI: 76.98986975397955 but the account did not have positions
+Tue Feb 02 02:15:06 PM - Calculated RSI for FB: 33.502538071064876
+Tue Feb 02 02:16:06 PM - Calculated RSI for GOOGL: 48.75000000000013
+Tue Feb 02 02:16:07 PM - Calculated RSI for NVDA: 41.79104477611928
+Tue Feb 02 02:16:08 PM - Calculated RSI for AAPL: 46.34146341463448
+Tue Feb 02 02:16:09 PM - Calculated RSI for NVAX: 70.71651090342657
+Tue Feb 02 02:16:09 PM - Wanted to sell stock NVAX at RSI: 70.71651090342657 but the account did not have positions
+Tue Feb 02 02:16:10 PM - Calculated RSI for FB: 34.01015228426337
+Tue Feb 02 02:17:08 PM - Calculated RSI for GOOGL: 43.890518084066485
+Tue Feb 02 02:17:09 PM - Calculated RSI for NVDA: 35.80246913580305
+Tue Feb 02 02:17:10 PM - Calculated RSI for AAPL: 47.50000000000248
+Tue Feb 02 02:17:11 PM - Calculated RSI for NVAX: 62.6206896551725
+Tue Feb 02 02:17:12 PM - Calculated RSI for FB: 36.63366336633563
+Tue Feb 02 02:18:05 PM - Calculated RSI for GOOGL: 41.23048668503184
+Tue Feb 02 02:18:06 PM - Calculated RSI for NVDA: 38.839285714286895
+Tue Feb 02 02:18:07 PM - Calculated RSI for AAPL: 38.00000000000091
+Tue Feb 02 02:18:08 PM - Calculated RSI for NVAX: 65.32374100719386
+Tue Feb 02 02:18:09 PM - Calculated RSI for FB: 38.541666666666146
+Tue Feb 02 02:19:01 PM - Calculated RSI for GOOGL: 41.53561517113813
+Tue Feb 02 02:19:02 PM - Calculated RSI for NVDA: 43.10344827586393
+Tue Feb 02 02:19:03 PM - Calculated RSI for AAPL: 43.137254901962095
+Tue Feb 02 02:19:04 PM - Calculated RSI for NVAX: 68.8227684346696
+Tue Feb 02 02:19:05 PM - Calculated RSI for FB: 47.852760736196444
+Tue Feb 02 02:20:08 PM - Calculated RSI for GOOGL: 49.70906068162857
+Tue Feb 02 02:20:09 PM - Calculated RSI for NVDA: 65.31365313653127
+Tue Feb 02 02:20:10 PM - Calculated RSI for AAPL: 55.55555555555497
+Tue Feb 02 02:20:11 PM - Calculated RSI for NVAX: 62.809917355371866
+Tue Feb 02 02:20:11 PM - Calculated RSI for FB: 50.0
+Tue Feb 02 02:21:05 PM - Calculated RSI for GOOGL: 52.511773940344916
+Tue Feb 02 02:21:06 PM - Calculated RSI for NVDA: 58.1818181818166
+Tue Feb 02 02:21:07 PM - Calculated RSI for AAPL: 64.51612903225717
+Tue Feb 02 02:21:08 PM - Calculated RSI for NVAX: 62.94117647058808
+Tue Feb 02 02:21:09 PM - Calculated RSI for FB: 47.53086419753128
+Tue Feb 02 02:22:01 PM - Calculated RSI for GOOGL: 46.95077149155052
+Tue Feb 02 02:22:01 PM - Calculated RSI for NVDA: 41.025641025642244
+Tue Feb 02 02:22:02 PM - Calculated RSI for AAPL: 58.33333333333215
+Tue Feb 02 02:22:03 PM - Calculated RSI for NVAX: 61.07305936073052
+Tue Feb 02 02:22:04 PM - Calculated RSI for FB: 40.449438202247435
+Tue Feb 02 02:23:13 PM - Calculated RSI for GOOGL: 42.969984202211585
+Tue Feb 02 02:23:14 PM - Calculated RSI for NVDA: 41.21405750798612
+Tue Feb 02 02:23:15 PM - Calculated RSI for AAPL: 58.33333333333215
+Tue Feb 02 02:23:16 PM - Calculated RSI for NVAX: 57.45164960182025
+Tue Feb 02 02:23:16 PM - Calculated RSI for FB: 40.449438202247435
+Tue Feb 02 02:24:01 PM - Calculated RSI for GOOGL: 48.895658796649
+Tue Feb 02 02:24:02 PM - Calculated RSI for NVDA: 41.21405750798612
+Tue Feb 02 02:24:03 PM - Calculated RSI for AAPL: 48.275862068967214
+Tue Feb 02 02:24:04 PM - Calculated RSI for NVAX: 62.21973094170405
+Tue Feb 02 02:24:04 PM - Calculated RSI for FB: 38.25136612021948
+Tue Feb 02 02:25:01 PM - Calculated RSI for GOOGL: 47.873163186387515
+Tue Feb 02 02:25:02 PM - Calculated RSI for NVDA: 40.82278481012584
+Tue Feb 02 02:25:03 PM - Calculated RSI for AAPL: 48.275862068967214
+Tue Feb 02 02:25:03 PM - Calculated RSI for NVAX: 54.37572928821468
+Tue Feb 02 02:25:04 PM - Calculated RSI for FB: 44.311377245508716
+Tue Feb 02 02:26:05 PM - Calculated RSI for GOOGL: 54.34591747146638
+Tue Feb 02 02:26:06 PM - Calculated RSI for NVDA: 35.12747875354161
+Tue Feb 02 02:26:07 PM - Calculated RSI for AAPL: 50.81967213114906
+Tue Feb 02 02:26:08 PM - Calculated RSI for NVAX: 42.714285714285495
+Tue Feb 02 02:26:09 PM - Calculated RSI for FB: 45.121951219511224
+Tue Feb 02 02:27:05 PM - Calculated RSI for GOOGL: 44.67353951890014
+Tue Feb 02 02:27:06 PM - Calculated RSI for NVDA: 39.2405063291146
+Tue Feb 02 02:27:07 PM - Calculated RSI for AAPL: 58.490566037735235
+Tue Feb 02 02:27:08 PM - Calculated RSI for NVAX: 38.89636608344574
+Tue Feb 02 02:27:09 PM - Calculated RSI for FB: 48.36601307189497
+Tue Feb 02 02:28:05 PM - Calculated RSI for GOOGL: 49.87102321582127
+Tue Feb 02 02:28:06 PM - Calculated RSI for NVDA: 39.8119122257055
+Tue Feb 02 02:28:07 PM - Calculated RSI for AAPL: 53.19148936170186
+Tue Feb 02 02:28:08 PM - Calculated RSI for NVAX: 38.06275579809011
+Tue Feb 02 02:28:09 PM - Calculated RSI for FB: 44.37086092715154
+Tue Feb 02 02:29:12 PM - Calculated RSI for GOOGL: 44.31709646609323
+Tue Feb 02 02:29:13 PM - Calculated RSI for NVDA: 44.827586206896214
+Tue Feb 02 02:29:14 PM - Calculated RSI for AAPL: 54.16666666666815
+Tue Feb 02 02:29:15 PM - Calculated RSI for NVAX: 25.335320417287534
+Tue Feb 02 02:29:15 PM - Wanted to add a sell trail to stock NVAX at RSI: 25.335320417287534 but the sell order failed
+Tue Feb 02 02:29:16 PM - Calculated RSI for FB: 39.99999999999929
+Tue Feb 02 02:30:05 PM - Calculated RSI for GOOGL: 50.17857142857126
+Tue Feb 02 02:30:06 PM - Calculated RSI for NVDA: 46.47058823529384
+Tue Feb 02 02:31:05 PM - Calculated RSI for GOOGL: 46.25514403292143
+Tue Feb 02 02:31:06 PM - Calculated RSI for NVDA: 45.40229885057535
+Tue Feb 02 02:31:07 PM - Calculated RSI for AAPL: 48.14814814815009
+Tue Feb 02 02:31:08 PM - Calculated RSI for NVAX: 35.019973368841534
+Tue Feb 02 02:31:09 PM - Calculated RSI for FB: 29.166666666666174
+Tue Feb 02 02:31:09 PM - Added a sell trail to stock FB at RSI: 29.166666666666174
+Tue Feb 02 02:32:05 PM - Calculated RSI for GOOGL: 46.475409836065005
+Tue Feb 02 02:32:06 PM - Calculated RSI for NVDA: 44.28152492668598
+Tue Feb 02 02:32:07 PM - Calculated RSI for AAPL: 49.090909090907395
+Tue Feb 02 02:32:08 PM - Calculated RSI for NVAX: 38.4718498659519
+Tue Feb 02 02:33:05 PM - Calculated RSI for GOOGL: 51.03510351035115
+Tue Feb 02 02:33:06 PM - Calculated RSI for NVDA: 42.89772727272678
+Tue Feb 02 02:33:07 PM - Calculated RSI for AAPL: 49.090909090907395
+Tue Feb 02 02:33:08 PM - Calculated RSI for NVAX: 50.06765899864675
+Tue Feb 02 02:33:09 PM - Calculated RSI for FB: 29.166666666666174
+Tue Feb 02 02:33:09 PM - Added a sell trail to stock FB at RSI: 29.166666666666174
+Tue Feb 02 02:34:02 PM - Calculated RSI for GOOGL: 58.15668202764976
+Tue Feb 02 02:34:03 PM - Calculated RSI for NVDA: 42.24137931034488
+Tue Feb 02 02:34:04 PM - Calculated RSI for AAPL: 58.69565217391425
+Tue Feb 02 02:34:06 PM - Calculated RSI for NVAX: 54.558011049723966
+Tue Feb 02 02:34:06 PM - Calculated RSI for FB: 23.972602739724962
+Tue Feb 02 02:34:07 PM - Added a sell trail to stock FB at RSI: 23.972602739724962
+Tue Feb 02 02:36:04 PM - Calculated RSI for GOOGL: 55.22682445759449
+Tue Feb 02 02:36:05 PM - Calculated RSI for NVDA: 36.99059561128346
+Tue Feb 02 02:36:06 PM - Calculated RSI for AAPL: 51.06382978723302
+Tue Feb 02 02:36:07 PM - Calculated RSI for NVAX: 41.04575163398687
+Tue Feb 02 02:36:08 PM - Calculated RSI for FB: 27.77777777777652
+Tue Feb 02 02:36:08 PM - Added a sell trail to stock FB at RSI: 27.77777777777652
+Tue Feb 02 02:37:13 PM - Calculated RSI for GOOGL: 50.3604531410925
+Tue Feb 02 02:37:14 PM - Calculated RSI for NVDA: 43.74999999999977
+Tue Feb 02 02:37:15 PM - Calculated RSI for AAPL: 47.727272727271696
+Tue Feb 02 02:37:16 PM - Calculated RSI for NVAX: 50.13513513513501
+Tue Feb 02 02:37:17 PM - Calculated RSI for FB: 28.34645669291166
+Tue Feb 02 02:37:17 PM - Added a sell trail to stock FB at RSI: 28.34645669291166
+Tue Feb 02 02:38:06 PM - Calculated RSI for GOOGL: 62.371134020617795
+Tue Feb 02 02:38:07 PM - Calculated RSI for NVDA: 58.11320754716963
+Tue Feb 02 02:38:08 PM - Calculated RSI for AAPL: 39.473684210525334
+Tue Feb 02 02:38:09 PM - Calculated RSI for NVAX: 48.0281690140847
+Tue Feb 02 02:38:10 PM - Calculated RSI for FB: 22.881355932202823
+Tue Feb 02 02:38:10 PM - Added a sell trail to stock FB at RSI: 22.881355932202823
+Tue Feb 02 02:39:03 PM - Calculated RSI for GOOGL: 64.70019342359728
+Tue Feb 02 02:39:04 PM - Calculated RSI for NVDA: 58.582089552240014
+Tue Feb 02 02:39:05 PM - Calculated RSI for AAPL: 41.666666666666664
+Tue Feb 02 02:39:06 PM - Calculated RSI for NVAX: 43.606138107416925
+Tue Feb 02 02:39:07 PM - Calculated RSI for FB: 42.40506329113861
+Tue Feb 02 02:40:02 PM - Calculated RSI for GOOGL: 65.0717703349275
+Tue Feb 02 02:40:03 PM - Calculated RSI for NVDA: 59.259259259259885
+Tue Feb 02 02:40:03 PM - Calculated RSI for AAPL: 39.47368421052828
+Tue Feb 02 02:40:04 PM - Calculated RSI for NVAX: 50.18315018315002
+Tue Feb 02 02:40:05 PM - Calculated RSI for FB: 51.04895104895013
+Tue Feb 02 02:41:05 PM - Calculated RSI for GOOGL: 67.03096539162149
+Tue Feb 02 02:41:06 PM - Calculated RSI for NVDA: 70.6948640483395
+Tue Feb 02 02:41:06 PM - Wanted to sell stock NVDA at RSI: 70.6948640483395 but the account did not have positions
+Tue Feb 02 02:41:07 PM - Calculated RSI for AAPL: 50.0
+Tue Feb 02 02:41:08 PM - Calculated RSI for NVAX: 43.91727493917277
+Tue Feb 02 02:41:09 PM - Calculated RSI for FB: 53.67647058823416
+Tue Feb 02 02:42:05 PM - Calculated RSI for GOOGL: 66.9699727024572
+Tue Feb 02 02:42:06 PM - Calculated RSI for NVDA: 72.67080745341812
+Tue Feb 02 02:42:06 PM - Wanted to sell stock NVDA at RSI: 72.67080745341812 but the account did not have positions
+Tue Feb 02 02:42:07 PM - Calculated RSI for AAPL: 48.64864864864616
+Tue Feb 02 02:42:08 PM - Calculated RSI for NVAX: 45.987261146496856
+Tue Feb 02 02:42:09 PM - Calculated RSI for FB: 63.63636363636263
+Tue Feb 02 02:43:05 PM - Calculated RSI for GOOGL: 80.36154478225224
+Tue Feb 02 02:43:05 PM - Wanted to sell stock GOOGL at RSI: 80.36154478225224 but the account did not have positions
+Tue Feb 02 02:43:06 PM - Calculated RSI for NVDA: 75.14450867052174
+Tue Feb 02 02:43:06 PM - Wanted to sell stock NVDA at RSI: 75.14450867052174 but the account did not have positions
+Tue Feb 02 02:43:07 PM - Calculated RSI for AAPL: 48.64864864864616
+Tue Feb 02 02:43:08 PM - Calculated RSI for NVAX: 49.75728155339828
+Tue Feb 02 02:43:09 PM - Calculated RSI for FB: 64.102564102564
+Tue Feb 02 02:44:05 PM - Calculated RSI for GOOGL: 76.05633802816949
+Tue Feb 02 02:44:05 PM - Wanted to sell stock GOOGL at RSI: 76.05633802816949 but the account did not have positions
+Tue Feb 02 02:44:06 PM - Calculated RSI for NVDA: 75.21613832853171
+Tue Feb 02 02:44:06 PM - Wanted to sell stock NVDA at RSI: 75.21613832853171 but the account did not have positions
+Tue Feb 02 02:44:07 PM - Calculated RSI for AAPL: 50.0
+Tue Feb 02 02:44:08 PM - Calculated RSI for NVAX: 56.02923264311818
+Tue Feb 02 02:44:09 PM - Calculated RSI for FB: 73.42657342657387
+Tue Feb 02 02:44:09 PM - Wanted to sell stock FB at RSI: 73.42657342657387 but the account did not have positions
+Tue Feb 02 02:45:05 PM - Calculated RSI for GOOGL: 74.45510026155286
+Tue Feb 02 02:45:05 PM - Wanted to sell stock GOOGL at RSI: 74.45510026155286 but the account did not have positions
+Tue Feb 02 02:45:06 PM - Calculated RSI for NVDA: 73.61963190184164
+Tue Feb 02 02:45:06 PM - Wanted to sell stock NVDA at RSI: 73.61963190184164 but the account did not have positions
+Tue Feb 02 02:45:07 PM - Calculated RSI for AAPL: 43.90243902439227
+Tue Feb 02 02:45:08 PM - Calculated RSI for NVAX: 49.94547437295534
+Tue Feb 02 02:45:09 PM - Calculated RSI for FB: 73.61111111111138
+Tue Feb 02 02:45:09 PM - Wanted to sell stock FB at RSI: 73.61111111111138 but the account did not have positions
+Tue Feb 02 02:46:01 PM - Calculated RSI for GOOGL: 71.79487179487302
+Tue Feb 02 02:46:01 PM - Wanted to sell stock GOOGL at RSI: 71.79487179487302 but the account did not have positions
+Tue Feb 02 02:46:02 PM - Calculated RSI for NVDA: 74.32835820895664
+Tue Feb 02 02:46:02 PM - Wanted to sell stock NVDA at RSI: 74.32835820895664 but the account did not have positions
+Tue Feb 02 02:46:03 PM - Calculated RSI for AAPL: 42.49999999999929
+Tue Feb 02 02:46:04 PM - Calculated RSI for NVAX: 52.522935779816486
+Tue Feb 02 02:46:05 PM - Calculated RSI for FB: 77.8523489932898
+Tue Feb 02 02:46:05 PM - Wanted to sell stock FB at RSI: 77.8523489932898 but the account did not have positions
+Tue Feb 02 02:47:05 PM - Calculated RSI for GOOGL: 81.59922928709135
+Tue Feb 02 02:47:05 PM - Wanted to sell stock GOOGL at RSI: 81.59922928709135 but the account did not have positions
+Tue Feb 02 02:47:06 PM - Calculated RSI for NVDA: 78.05642633228935
+Tue Feb 02 02:47:06 PM - Wanted to sell stock NVDA at RSI: 78.05642633228935 but the account did not have positions
+Tue Feb 02 02:47:07 PM - Calculated RSI for AAPL: 54.054054054054475
+Tue Feb 02 02:47:08 PM - Calculated RSI for NVAX: 44.73039215686271
+Tue Feb 02 02:47:09 PM - Calculated RSI for FB: 86.62420382165416
+Tue Feb 02 02:47:09 PM - Wanted to sell stock FB at RSI: 86.62420382165416 but the account did not have positions
+Tue Feb 02 02:48:05 PM - Calculated RSI for GOOGL: 83.11229000884259
+Tue Feb 02 02:48:05 PM - Wanted to sell stock GOOGL at RSI: 83.11229000884259 but the account did not have positions
+Tue Feb 02 02:48:06 PM - Calculated RSI for NVDA: 77.57009345794528
+Tue Feb 02 02:48:06 PM - Wanted to sell stock NVDA at RSI: 77.57009345794528 but the account did not have positions
+Tue Feb 02 02:48:07 PM - Calculated RSI for AAPL: 50.0
+Tue Feb 02 02:48:08 PM - Calculated RSI for NVAX: 42.15080346106289
+Tue Feb 02 02:48:09 PM - Calculated RSI for FB: 90.06622516556097
+Tue Feb 02 02:48:09 PM - Wanted to sell stock FB at RSI: 90.06622516556097 but the account did not have positions
+Tue Feb 02 02:49:05 PM - Calculated RSI for GOOGL: 81.45580589254834
+Tue Feb 02 02:49:05 PM - Wanted to sell stock GOOGL at RSI: 81.45580589254834 but the account did not have positions
+Tue Feb 02 02:49:06 PM - Calculated RSI for NVDA: 84.59016393442826
+Tue Feb 02 02:49:07 PM - Wanted to sell stock NVDA at RSI: 84.59016393442826 but the account did not have positions
+Tue Feb 02 02:49:08 PM - Calculated RSI for AAPL: 45.000000000001066
+Tue Feb 02 02:49:08 PM - Calculated RSI for NVAX: 37.01211305518186
+Tue Feb 02 02:49:09 PM - Calculated RSI for FB: 82.82208588956928
+Tue Feb 02 02:49:10 PM - Wanted to sell stock FB at RSI: 82.82208588956928 but the account did not have positions
+Tue Feb 02 02:50:05 PM - Calculated RSI for GOOGL: 73.61344537815152
+Tue Feb 02 02:50:05 PM - Wanted to sell stock GOOGL at RSI: 73.61344537815152 but the account did not have positions
+Tue Feb 02 02:50:06 PM - Calculated RSI for NVDA: 75.2265861027197
+Tue Feb 02 02:50:06 PM - Wanted to sell stock NVDA at RSI: 75.2265861027197 but the account did not have positions
+Tue Feb 02 02:50:07 PM - Calculated RSI for AAPL: 46.15384615384615
+Tue Feb 02 02:50:08 PM - Calculated RSI for NVAX: 38.58267716535445
+Tue Feb 02 02:50:09 PM - Calculated RSI for FB: 87.82051282051299
+Tue Feb 02 02:50:09 PM - Wanted to sell stock FB at RSI: 87.82051282051299 but the account did not have positions
+Tue Feb 02 02:51:12 PM - Calculated RSI for GOOGL: 71.78796046720602
+Tue Feb 02 02:51:12 PM - Wanted to sell stock GOOGL at RSI: 71.78796046720602 but the account did not have positions
+Tue Feb 02 02:51:13 PM - Calculated RSI for NVDA: 75.811209439529
+Tue Feb 02 02:51:13 PM - Wanted to sell stock NVDA at RSI: 75.811209439529 but the account did not have positions
+Tue Feb 02 02:51:14 PM - Calculated RSI for AAPL: 47.36842105263394
+Tue Feb 02 02:51:15 PM - Calculated RSI for NVAX: 46.93251533742353
+Tue Feb 02 02:51:16 PM - Calculated RSI for FB: 91.44736842105314
+Tue Feb 02 02:51:16 PM - Wanted to sell stock FB at RSI: 91.44736842105314 but the account did not have positions
+Tue Feb 02 02:52:04 PM - Calculated RSI for GOOGL: 74.21100090171345
+Tue Feb 02 02:52:04 PM - Wanted to sell stock GOOGL at RSI: 74.21100090171345 but the account did not have positions
+Tue Feb 02 02:52:05 PM - Calculated RSI for NVDA: 74.2946708463965
+Tue Feb 02 02:52:05 PM - Wanted to sell stock NVDA at RSI: 74.2946708463965 but the account did not have positions
+Tue Feb 02 02:52:06 PM - Calculated RSI for AAPL: 38.23529411764533
+Tue Feb 02 02:52:07 PM - Calculated RSI for NVAX: 38.72472783825846
+Tue Feb 02 02:52:08 PM - Calculated RSI for FB: 91.39072847682144
+Tue Feb 02 02:52:08 PM - Wanted to sell stock FB at RSI: 91.39072847682144 but the account did not have positions
+Tue Feb 02 02:53:03 PM - Calculated RSI for GOOGL: 66.69811320754715
+Tue Feb 02 02:53:04 PM - Calculated RSI for NVDA: 69.04024767801874
+Tue Feb 02 02:53:05 PM - Calculated RSI for AAPL: 27.272727272729625
+Tue Feb 02 02:53:05 PM - Added a sell trail to stock AAPL at RSI: 27.272727272729625
+Tue Feb 02 02:53:06 PM - Calculated RSI for NVAX: 34.870317002881805
+Tue Feb 02 02:53:07 PM - Calculated RSI for FB: 85.4166666666675
+Tue Feb 02 02:53:07 PM - Wanted to sell stock FB at RSI: 85.4166666666675 but the account did not have positions
+Tue Feb 02 02:54:19 PM - Calculated RSI for GOOGL: 64.91053677932413
+Tue Feb 02 02:54:20 PM - Calculated RSI for NVDA: 62.09912536443226
+Tue Feb 02 02:54:21 PM - Calculated RSI for AAPL: 30.30303030303004
+Tue Feb 02 02:54:22 PM - Calculated RSI for NVAX: 38.230647709320706
+Tue Feb 02 02:54:23 PM - Calculated RSI for FB: 77.14285714285651
+Tue Feb 02 02:54:23 PM - Wanted to sell stock FB at RSI: 77.14285714285651 but the account did not have positions
+Tue Feb 02 03:10:05 PM - Calculated RSI for GOOGL: 26.44889357218112
+Tue Feb 02 03:10:05 PM - Wanted to add a sell trail to stock GOOGL at RSI: 26.44889357218112 but the sell order failed
+Tue Feb 02 03:10:06 PM - Calculated RSI for NVDA: 52.892561983470834
+Tue Feb 02 03:10:07 PM - Calculated RSI for AAPL: 42.424242424243474
+Tue Feb 02 03:10:08 PM - Calculated RSI for NVAX: 70.462633451958
+Tue Feb 02 03:10:08 PM - Sold stock NVAX at RSI: 70.462633451958
+Tue Feb 02 03:10:09 PM - Calculated RSI for FB: 27.564102564102953
+Tue Feb 02 03:10:09 PM - Wanted to buy stock FB at RSI: 27.564102564102953 but the account already has positions
+Tue Feb 02 03:11:01 PM - Calculated RSI for GOOGL: 22.659574468085495
+Tue Feb 02 03:11:01 PM - Wanted to buy stock GOOGL at RSI: 22.659574468085495 but the account already has positions
+Tue Feb 02 03:11:03 PM - Calculated RSI for NVDA: 56.48854961832121
+Tue Feb 02 03:11:03 PM - Calculated RSI for AAPL: 43.07692307692348
+Tue Feb 02 03:11:04 PM - Calculated RSI for NVAX: 77.22007722007771
+Tue Feb 02 03:11:04 PM - Wanted to sell stock NVAX at RSI: 77.22007722007771 but the account did not have positions
+Tue Feb 02 03:11:05 PM - Calculated RSI for FB: 35.757575757576944
+Tue Feb 02 03:12:04 PM - Calculated RSI for GOOGL: 23.78947368421167
+Tue Feb 02 03:12:04 PM - Wanted to buy stock GOOGL at RSI: 23.78947368421167 but the account already has positions
+Tue Feb 02 03:12:05 PM - Calculated RSI for NVDA: 60.153256704980706
+Tue Feb 02 03:12:06 PM - Calculated RSI for AAPL: 46.666666666667616
+Tue Feb 02 03:12:08 PM - Calculated RSI for NVAX: 66.52892561983523
+Tue Feb 02 03:12:08 PM - Calculated RSI for FB: 40.645161290321994
+Tue Feb 02 03:13:01 PM - Calculated RSI for GOOGL: 24.672489082970372
+Tue Feb 02 03:13:01 PM - Wanted to buy stock GOOGL at RSI: 24.672489082970372 but the account already has positions
+Tue Feb 02 03:13:03 PM - Calculated RSI for NVDA: 67.76556776556814
+Tue Feb 02 03:13:03 PM - Calculated RSI for AAPL: 42.85714285714213
+Tue Feb 02 03:13:04 PM - Calculated RSI for NVAX: 59.7014925373137
+Tue Feb 02 03:13:05 PM - Calculated RSI for FB: 41.44736842105283
+Tue Feb 02 03:14:05 PM - Calculated RSI for GOOGL: 20.415224913495976
+Tue Feb 02 03:14:05 PM - Wanted to buy stock GOOGL at RSI: 20.415224913495976 but the account already has positions
+Tue Feb 02 03:14:06 PM - Calculated RSI for NVDA: 62.02531645569426
+Tue Feb 02 03:14:07 PM - Calculated RSI for AAPL: 38.59649122806851
+Tue Feb 02 03:14:08 PM - Calculated RSI for NVAX: 63.72881355932213
+Tue Feb 02 03:14:09 PM - Calculated RSI for FB: 45.0617283950608
+Tue Feb 02 03:15:05 PM - Calculated RSI for GOOGL: 20.581395348838768
+Tue Feb 02 03:15:05 PM - Wanted to buy stock GOOGL at RSI: 20.581395348838768 but the account already has positions
+Tue Feb 02 03:15:06 PM - Calculated RSI for NVDA: 54.54545454545497
+Tue Feb 02 03:15:07 PM - Calculated RSI for AAPL: 34.920634920634996
+Tue Feb 02 03:15:09 PM - Calculated RSI for NVAX: 61.34453781512578
+Tue Feb 02 03:15:10 PM - Calculated RSI for FB: 42.20779220779173
+Tue Feb 02 03:16:05 PM - Calculated RSI for GOOGL: 25.19251925192627
+Tue Feb 02 03:16:05 PM - Wanted to buy stock GOOGL at RSI: 25.19251925192627 but the account already has positions
+Tue Feb 02 03:16:06 PM - Calculated RSI for NVDA: 63.49809885931572
+Tue Feb 02 03:16:07 PM - Calculated RSI for AAPL: 41.66666666666706
+Tue Feb 02 03:16:08 PM - Calculated RSI for NVAX: 57.84469096671964
+Tue Feb 02 03:16:09 PM - Calculated RSI for FB: 38.85350318471219
+Tue Feb 02 03:17:05 PM - Calculated RSI for GOOGL: 28.987341772153158
+Tue Feb 02 03:17:05 PM - Wanted to buy stock GOOGL at RSI: 28.987341772153158 but the account already has positions
+Tue Feb 02 03:17:07 PM - Calculated RSI for NVDA: 70.76271186440604
+Tue Feb 02 03:17:07 PM - Wanted to sell stock NVDA at RSI: 70.76271186440604 but the account did not have positions
+Tue Feb 02 03:17:08 PM - Calculated RSI for AAPL: 48.43749999999923
+Tue Feb 02 03:17:09 PM - Calculated RSI for NVAX: 54.21686746987964
+Tue Feb 02 03:17:10 PM - Calculated RSI for FB: 42.657342657342824
+Tue Feb 02 03:18:05 PM - Calculated RSI for GOOGL: 31.75182481751881
+Tue Feb 02 03:18:06 PM - Calculated RSI for NVDA: 57.20930232557983
+Tue Feb 02 03:18:07 PM - Calculated RSI for AAPL: 37.73584905660489
+Tue Feb 02 03:18:09 PM - Calculated RSI for NVAX: 53.34476843910799
+Tue Feb 02 03:18:10 PM - Calculated RSI for FB: 31.538461538458577
+Tue Feb 02 03:19:05 PM - Calculated RSI for GOOGL: 43.39051463168565
+Tue Feb 02 03:19:06 PM - Calculated RSI for NVDA: 57.00934579439113
+Tue Feb 02 03:19:07 PM - Calculated RSI for AAPL: 33.9622641509428
+Tue Feb 02 03:19:08 PM - Calculated RSI for NVAX: 39.60216998191697
+Tue Feb 02 03:19:09 PM - Calculated RSI for FB: 40.714285714282724
+Tue Feb 02 03:20:04 PM - Calculated RSI for GOOGL: 45.64755838641236
+Tue Feb 02 03:20:05 PM - Calculated RSI for NVDA: 51.91489361701942
+Tue Feb 02 03:20:07 PM - Calculated RSI for AAPL: 40.816326530612606
+Tue Feb 02 03:20:07 PM - Calculated RSI for NVAX: 40.03656307129817
+Tue Feb 02 03:20:08 PM - Calculated RSI for FB: 50.0
+Tue Feb 02 03:21:04 PM - Calculated RSI for GOOGL: 60.23468057366281
+Tue Feb 02 03:21:05 PM - Calculated RSI for NVDA: 58.39999999999879
+Tue Feb 02 03:21:06 PM - Calculated RSI for AAPL: 37.73584905660286
+Tue Feb 02 03:21:07 PM - Calculated RSI for NVAX: 44.230769230768935
+Tue Feb 02 03:21:08 PM - Calculated RSI for FB: 66.6666666666693
+Tue Feb 02 03:22:05 PM - Calculated RSI for GOOGL: 59.54907161803697
+Tue Feb 02 03:22:06 PM - Calculated RSI for NVDA: 64.33823529411849
+Tue Feb 02 03:22:06 PM - Calculated RSI for AAPL: 41.50943396226476
+Tue Feb 02 03:22:07 PM - Calculated RSI for NVAX: 53.225806451612755
+Tue Feb 02 03:22:08 PM - Calculated RSI for FB: 63.26530612245174
+Tue Feb 02 03:23:04 PM - Calculated RSI for GOOGL: 63.35078534031332
+Tue Feb 02 03:23:05 PM - Calculated RSI for NVDA: 63.33333333333095
+Tue Feb 02 03:23:06 PM - Calculated RSI for AAPL: 39.21568627450947
+Tue Feb 02 03:23:07 PM - Calculated RSI for NVAX: 55.246913580247
+Tue Feb 02 03:23:08 PM - Calculated RSI for FB: 66.44295302013569
+Tue Feb 02 03:24:05 PM - Calculated RSI for GOOGL: 57.96407185628664
+Tue Feb 02 03:24:06 PM - Calculated RSI for NVDA: 58.42293906810027
+Tue Feb 02 03:24:07 PM - Calculated RSI for AAPL: 46.51162790697689
+Tue Feb 02 03:24:08 PM - Calculated RSI for NVAX: 42.237061769615906
+Tue Feb 02 03:24:09 PM - Calculated RSI for FB: 63.87096774193662
+Tue Feb 02 03:25:05 PM - Calculated RSI for GOOGL: 49.18699186991832
+Tue Feb 02 03:25:06 PM - Calculated RSI for NVDA: 58.42293906809789
+Tue Feb 02 03:25:07 PM - Calculated RSI for AAPL: 46.51162790697689
+Tue Feb 02 03:25:08 PM - Calculated RSI for NVAX: 47.92703150912105
+Tue Feb 02 03:25:09 PM - Calculated RSI for FB: 66.89189189189298
+Tue Feb 02 03:26:05 PM - Calculated RSI for GOOGL: 49.845520082389434
+Tue Feb 02 03:26:06 PM - Calculated RSI for NVDA: 59.5818815330991
+Tue Feb 02 03:26:07 PM - Calculated RSI for AAPL: 58.490566037735235
+Tue Feb 02 03:26:08 PM - Calculated RSI for NVAX: 43.511450381679175
+Tue Feb 02 03:26:09 PM - Calculated RSI for FB: 63.7037037037048
+Tue Feb 02 03:27:05 PM - Calculated RSI for GOOGL: 47.768762677484546
+Tue Feb 02 03:27:06 PM - Calculated RSI for NVDA: 69.14893617021123
+Tue Feb 02 03:27:07 PM - Calculated RSI for AAPL: 58.490566037735235
+Tue Feb 02 03:27:08 PM - Calculated RSI for NVAX: 43.11649016641429
+Tue Feb 02 03:27:09 PM - Calculated RSI for FB: 63.43283582089685
+Tue Feb 02 03:28:05 PM - Calculated RSI for GOOGL: 54.25925925925952
+Tue Feb 02 03:28:06 PM - Calculated RSI for NVDA: 65.72237960339612
+Tue Feb 02 03:28:07 PM - Calculated RSI for AAPL: 64.51612903225717
+Tue Feb 02 03:28:07 PM - Calculated RSI for NVAX: 51.72413793103462
+Tue Feb 02 03:28:08 PM - Calculated RSI for FB: 69.65517241379303
+Tue Feb 02 03:29:05 PM - Calculated RSI for GOOGL: 58.45248107653479
+Tue Feb 02 03:29:06 PM - Calculated RSI for NVDA: 69.56521739130334
+Tue Feb 02 03:29:07 PM - Calculated RSI for AAPL: 69.8412698412682
+Tue Feb 02 03:29:08 PM - Calculated RSI for NVAX: 43.98782343987807
+Tue Feb 02 03:29:08 PM - Calculated RSI for FB: 71.42857142857196
+Tue Feb 02 03:29:08 PM - Sold stock FB at RSI: 71.42857142857196
+Tue Feb 02 03:30:05 PM - Calculated RSI for GOOGL: 60.23102310231002
+Tue Feb 02 03:30:06 PM - Calculated RSI for NVDA: 76.3723150357961
+Tue Feb 02 03:30:06 PM - Wanted to sell stock NVDA at RSI: 76.3723150357961 but the account did not have positions
+Tue Feb 02 03:30:07 PM - Calculated RSI for AAPL: 70.96774193548106
+Tue Feb 02 03:30:07 PM - Sold stock AAPL at RSI: 70.96774193548106
+Tue Feb 02 03:30:08 PM - Calculated RSI for NVAX: 44.530046224961595
+Tue Feb 02 03:30:09 PM - Calculated RSI for FB: 66.66666666666666
+Tue Feb 02 03:31:05 PM - Calculated RSI for GOOGL: 60.459392945036484
+Tue Feb 02 03:31:06 PM - Calculated RSI for NVDA: 75.18796992480898
+Tue Feb 02 03:31:06 PM - Wanted to sell stock NVDA at RSI: 75.18796992480898 but the account did not have positions
+Tue Feb 02 03:31:07 PM - Calculated RSI for AAPL: 71.4285714285695
+Tue Feb 02 03:31:07 PM - Wanted to sell stock AAPL at RSI: 71.4285714285695 but the sell order failed
+Tue Feb 02 03:31:08 PM - Calculated RSI for NVAX: 47.909967845659246
+Tue Feb 02 03:31:09 PM - Calculated RSI for FB: 70.44025157232699
+Tue Feb 02 03:31:09 PM - Wanted to sell stock FB at RSI: 70.44025157232699 but the sell order failed
+Tue Feb 02 03:32:07 PM - Calculated RSI for GOOGL: 62.03703703703628
+Tue Feb 02 03:32:08 PM - Calculated RSI for NVDA: 79.33673469387533
+Tue Feb 02 03:32:08 PM - Wanted to sell stock NVDA at RSI: 79.33673469387533 but the account did not have positions
+Tue Feb 02 03:32:09 PM - Calculated RSI for AAPL: 62.90322580644947
+Tue Feb 02 03:32:11 PM - Calculated RSI for NVAX: 50.909090909090935
+Tue Feb 02 03:32:12 PM - Calculated RSI for FB: 74.57627118643948
+Tue Feb 02 03:32:12 PM - Wanted to sell stock FB at RSI: 74.57627118643948 but the sell order failed
+Tue Feb 02 03:33:11 PM - Calculated RSI for GOOGL: 52.782764811489564
+Tue Feb 02 03:33:12 PM - Calculated RSI for NVDA: 72.32558139534756
+Tue Feb 02 03:33:12 PM - Wanted to sell stock NVDA at RSI: 72.32558139534756 but the account did not have positions
+Tue Feb 02 03:33:13 PM - Calculated RSI for AAPL: 59.99999999999905
+Tue Feb 02 03:33:14 PM - Calculated RSI for NVAX: 50.602409638554086
+Tue Feb 02 03:33:15 PM - Calculated RSI for FB: 74.15730337078573
+Tue Feb 02 03:33:16 PM - Wanted to sell stock FB at RSI: 74.15730337078573 but the sell order failed
+Tue Feb 02 03:34:05 PM - Calculated RSI for GOOGL: 48.228346456692336
+Tue Feb 02 03:34:05 PM - Calculated RSI for NVDA: 71.05263157894464
+Tue Feb 02 03:34:05 PM - Wanted to sell stock NVDA at RSI: 71.05263157894464 but the account did not have positions
+Tue Feb 02 03:34:06 PM - Calculated RSI for AAPL: 62.711864406778844
+Tue Feb 02 03:34:07 PM - Calculated RSI for NVAX: 56.03305785123975
+Tue Feb 02 03:34:08 PM - Calculated RSI for FB: 59.79381443299048
+Tue Feb 02 03:35:06 PM - Calculated RSI for GOOGL: 54.02542372881339
+Tue Feb 02 03:35:07 PM - Calculated RSI for NVDA: 79.08496732025843
+Tue Feb 02 03:35:07 PM - Wanted to sell stock NVDA at RSI: 79.08496732025843 but the account did not have positions
+Tue Feb 02 03:35:08 PM - Calculated RSI for AAPL: 65.07936507936364
+Tue Feb 02 03:35:08 PM - Calculated RSI for NVAX: 59.57820738137042
+Tue Feb 02 03:35:09 PM - Calculated RSI for FB: 58.94736842105181
+Tue Feb 02 03:36:05 PM - Calculated RSI for GOOGL: 54.26765015806181
+Tue Feb 02 03:36:06 PM - Calculated RSI for NVDA: 76.52370203159919
+Tue Feb 02 03:36:06 PM - Wanted to sell stock NVDA at RSI: 76.52370203159919 but the account did not have positions
+Tue Feb 02 03:36:06 PM - Calculated RSI for AAPL: 73.4374999999993
+Tue Feb 02 03:36:07 PM - Wanted to sell stock AAPL at RSI: 73.4374999999993 but the sell order failed
+Tue Feb 02 03:36:07 PM - Calculated RSI for NVAX: 58.781362007168376
+Tue Feb 02 03:36:08 PM - Calculated RSI for FB: 55.42857142857118
+Tue Feb 02 03:37:05 PM - Calculated RSI for GOOGL: 54.41176470588183
+Tue Feb 02 03:37:06 PM - Calculated RSI for NVDA: 60.66536203522303
+Tue Feb 02 03:37:06 PM - Calculated RSI for AAPL: 73.4374999999993
+Tue Feb 02 03:37:07 PM - Wanted to sell stock AAPL at RSI: 73.4374999999993 but the sell order failed
+Tue Feb 02 03:38:02 PM - Calculated RSI for GOOGL: 56.85884691848933
+Tue Feb 02 03:38:03 PM - Calculated RSI for NVDA: 63.5531135531125
+Tue Feb 02 03:38:04 PM - Calculated RSI for AAPL: 75.36231884057834
+Tue Feb 02 03:38:04 PM - Wanted to sell stock AAPL at RSI: 75.36231884057834 but the sell order failed
+Tue Feb 02 03:38:05 PM - Calculated RSI for NVAX: 62.843295638125575
+Tue Feb 02 03:38:06 PM - Calculated RSI for FB: 59.999999999998735
+Tue Feb 02 03:39:05 PM - Calculated RSI for GOOGL: 62.30031948881717
+Tue Feb 02 03:39:06 PM - Calculated RSI for NVDA: 65.3483992467028
+Tue Feb 02 03:39:07 PM - Calculated RSI for AAPL: 77.61194029850715
+Tue Feb 02 03:39:07 PM - Wanted to sell stock AAPL at RSI: 77.61194029850715 but the sell order failed
+Tue Feb 02 03:39:08 PM - Calculated RSI for NVAX: 59.074733096085474
+Tue Feb 02 03:39:09 PM - Calculated RSI for FB: 65.87677725118377
+Tue Feb 02 03:40:01 PM - Calculated RSI for GOOGL: 82.77202072538716
+Tue Feb 02 03:40:01 PM - Sold stock GOOGL at RSI: 82.77202072538716
+Tue Feb 02 03:40:02 PM - Calculated RSI for NVDA: 59.93091537132995
+Tue Feb 02 03:40:03 PM - Calculated RSI for AAPL: 75.36231884057834
+Tue Feb 02 03:40:03 PM - Wanted to sell stock AAPL at RSI: 75.36231884057834 but the sell order failed
+Tue Feb 02 03:40:04 PM - Calculated RSI for NVAX: 61.367837338262234
+Tue Feb 02 03:40:05 PM - Calculated RSI for FB: 60.96491228070188
+Tue Feb 02 03:41:23 PM - Calculated RSI for GOOGL: 61.918604651162774
+Tue Feb 02 03:41:24 PM - Calculated RSI for NVDA: 57.58683729433259
+Tue Feb 02 03:41:25 PM - Calculated RSI for AAPL: 71.18644067796495
+Tue Feb 02 03:41:25 PM - Wanted to sell stock AAPL at RSI: 71.18644067796495 but the sell order failed
+Tue Feb 02 03:41:26 PM - Calculated RSI for NVAX: 58.26771653543314
+Tue Feb 02 03:41:27 PM - Calculated RSI for FB: 59.91379310344933
+Tue Feb 02 03:42:08 PM - Calculated RSI for GOOGL: 58.6238532110096
+Tue Feb 02 03:42:09 PM - Calculated RSI for NVDA: 51.56576200417502
+Tue Feb 02 03:42:10 PM - Calculated RSI for AAPL: 72.41379310344591
+Tue Feb 02 03:42:10 PM - Wanted to sell stock AAPL at RSI: 72.41379310344591 but the sell order failed
+Tue Feb 02 03:42:11 PM - Calculated RSI for NVAX: 55.22388059701477
+Tue Feb 02 03:42:12 PM - Calculated RSI for FB: 57.87234042553232
+Tue Feb 02 03:43:05 PM - Calculated RSI for GOOGL: 50.62801932367092
+Tue Feb 02 03:43:06 PM - Calculated RSI for NVDA: 53.099173553719545
+Tue Feb 02 03:43:07 PM - Calculated RSI for AAPL: 56.862745098037905
+Tue Feb 02 03:43:08 PM - Calculated RSI for NVAX: 59.43775100401568
+Tue Feb 02 03:43:08 PM - Calculated RSI for FB: 57.08154506437739
+Tue Feb 02 03:50:03 PM - Wanted to sell stock GOOGL at 3:50pm but the acccount had no positions
+Tue Feb 02 03:50:03 PM - Wanted to sell stock NVDA at 3:50pm but the acccount had no positions
+Tue Feb 02 03:50:03 PM - Wanted to sell stock AAPL at 3:50pm but the acccount had no positions
+Tue Feb 02 03:50:03 PM - Wanted to sell stock NVAX at 3:50pm but the acccount had no positions
+Tue Feb 02 03:50:03 PM - Wanted to sell stock FB at 3:50pm but the acccount had no positions
+Tue Feb 02 03:53:00 PM - Wanted to sell stock GOOGL at 3:50pm but the acccount had no positions
+Tue Feb 02 03:53:00 PM - Wanted to sell stock NVDA at 3:50pm but the acccount had no positions
+Tue Feb 02 03:53:00 PM - Wanted to sell stock AAPL at 3:50pm but the order failed
+Tue Feb 02 03:53:00 PM - Wanted to sell stock NVAX at 3:50pm but the acccount had no positions
+Tue Feb 02 03:53:00 PM - Wanted to sell stock FB at 3:50pm but the order failed

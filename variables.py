@@ -1,0 +1,10 @@
+start_time = 0
+state = 'Idle'
+state_icon = 'text-warning'
+terminal = ['Terminal starting...']
+update_time = 0
+stocks = ['GOOGL', 'NVDA', 'AAPL', 'NVAX', 'FB']
+strategies = "RSI Analysis"
+buy_sell = True
+prices = {'GOOGL': [], 'NVDA': [], 'AAPL': [], 'NVAX': [], 'FB': []}
+# live_graph_stock = 0
